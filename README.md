@@ -1,1 +1,1 @@
-# Exerc-cios---Trybe
+# Exercicios---Trybe
