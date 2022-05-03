@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Chrome
+Mozila
+tor
+Edge
+Opera
