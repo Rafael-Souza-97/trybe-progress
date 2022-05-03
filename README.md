@@ -8,7 +8,7 @@ na Trybe.
 
 O programa conta com mais de 1.500 haras de aulas presenciais e online, aborda introdução ao desenvolvimento de
 software, front-end, back-end, ciência da computação, engenharia de software, melodologias ágeis e habilidades
-comportamentais. 
+comportamentais.
 
 ### Fundamentos do Desenvolvimento Web
 
@@ -29,4 +29,4 @@ comportamentais.
 ###### [ ] Primeiros Passos
 ###### [ ] Seletores e Posicionamento
 ###### [ ] HTML Semântico
-###### [ ] Lessons Learned
+###### [ ] Lessons Learned  
