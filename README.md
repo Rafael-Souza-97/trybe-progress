@@ -29,4 +29,6 @@ comportamentais.
 ###### [ ] Primeiros Passos
 ###### [ ] Seletores e Posicionamento
 ###### [ ] HTML Semântico
-###### [ ] Lessons Learned  
+###### [ ] Lessons Learned
+
+##### Bloco 03: Introdução à JavaScript e Lógica de Programação
