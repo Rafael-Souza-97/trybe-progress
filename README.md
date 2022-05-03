@@ -14,5 +14,5 @@ comportamentais.
 
 ##### Bloco 1
 
-###### [] Unix & Bash
-###### [] Git & GitHub
+###### [ ] Unix & Bash
+###### [ ] Git & GitHub
