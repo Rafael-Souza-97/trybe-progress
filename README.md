@@ -29,4 +29,4 @@ comportamentais.
 ###### [ ] Primeiros Passos
 ###### [ ] Seletores e Posicionamento
 ###### [ ] HTML Semântico
-###### [ ] Lessons Learned -
+###### [ ] Lessons Learned -----
