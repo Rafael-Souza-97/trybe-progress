@@ -1,4 +1,4 @@
-# Trybe
+## Trybe
   
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Rafael Souza enquanto estudava
 na Trybe.
