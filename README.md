@@ -1,4 +1,4 @@
-# Trybe
+## Trybe
   
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Rafael Souza enquanto estudava
 na Trybe.
@@ -8,12 +8,25 @@ na Trybe.
 
 O programa conta com mais de 1.500 haras de aulas presenciais e online, aborda introdução ao desenvolvimento de
 software, front-end, back-end, ciência da computação, engenharia de software, melodologias ágeis e habilidades
-comportamentais.
+comportamentais. 
 
 ### Fundamentos do Desenvolvimento Web
 
 ##### Bloco 1
+###### [ ] Fundamentos Desenvolvimento Web
+###### [ ] Introdução
+###### [ ] Parte 1
+###### [ ] Parte 2
 
+##### Bloco 02: Git, GitHub e Internet
 ###### [ ] Unix & Bash
 ###### [ ] Git & GitHub
 ###### [ ] Internet
+
+##### Bloco 03: Introdução à HTML e CSS
+###### [ ] Introdução
+###### [ ] Estrutura de Página
+###### [ ] Primeiros Passos
+###### [ ] Seletores e Posicionamento
+###### [ ] HTML Semântico
+###### [ ] Lessons Learned -
