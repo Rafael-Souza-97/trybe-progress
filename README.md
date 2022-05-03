@@ -10,9 +10,10 @@ O programa conta com mais de 1.500 haras de aulas presenciais e online, aborda i
 software, front-end, back-end, ciência da computação, engenharia de software, melodologias ágeis e habilidades
 comportamentais.
 
-#### Fundamentos do Desenvolvimento Web
+### Fundamentos do Desenvolvimento Web
 
 ##### Bloco 1
 
 ###### [ ] Unix & Bash
 ###### [ ] Git & GitHub
+###### [ ] Internet
