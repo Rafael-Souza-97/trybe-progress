@@ -13,7 +13,20 @@ comportamentais.
 ### Fundamentos do Desenvolvimento Web
 
 ##### Bloco 1
+###### [ ] Fundamentos Desenvolvimento Web
+###### [ ] Introdução
+###### [ ] Parte 1
+###### [ ] Parte 2
 
+##### Bloco 02: Git, GitHub e Internet
 ###### [ ] Unix & Bash
 ###### [ ] Git & GitHub
 ###### [ ] Internet
+
+##### Bloco 03: Introdução à HTML e CSS
+###### [ ] Introdução
+###### [ ] Estrutura de Página
+###### [ ] Primeiros Passos
+###### [ ] Seletores e Posicionamento
+###### [ ] HTML Semântico
+###### [ ] Lessons Learned
