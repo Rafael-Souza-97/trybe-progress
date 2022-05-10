@@ -1,0 +1,16 @@
+h1, p {
+    text-align: center;
+}
+
+.list-1:hover {
+    color: red;
+}
+
+.list-1:active {
+    font-family: monospace;
+    list-style: none;
+}
+
+.list-2 {
+    list-style: none;
+}
