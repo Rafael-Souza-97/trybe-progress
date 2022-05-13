@@ -31,3 +31,4 @@ if ( salarioBase <= 1903.98 ) {
 const salarioLiquido = salarioBase - aliquotaIR
 
 console.log(`salarioLiquido ${salario} e ${salarioLiquido}`)
+ 
