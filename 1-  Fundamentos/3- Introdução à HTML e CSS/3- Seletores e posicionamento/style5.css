@@ -1,0 +1,60 @@
+.lista-ordenada {
+    background-color: yellow;
+}
+
+.impar {
+    color: green;
+    font-weight: bold;
+}
+
+.par {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h1, h3 {
+    color: red;
+}
+
+h1 {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+.li {
+    font-size: 20px;
+}
+
+.lista-prog {
+    color: blue;
+}
+
+.lista-progJava {
+    background-color: pink;
+}
+
+#stack:hover {
+    font-weight: bold;
+    color: orange;
+}
+
+#w3:hover {
+    font-weight: bold;
+    color: green;
+}
+
+#mdn:hover {
+    font-weight: bold;
+    color: black;
+}
+
+#devDocs:hover {
+    font-weight: bold;
+    color: yellow;
+    background-color: black;
+}
+
+#trybe:hover {
+    font-weight: bold;
+    color: green;
+}

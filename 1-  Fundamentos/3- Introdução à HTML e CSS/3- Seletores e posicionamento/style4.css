@@ -1,0 +1,24 @@
+.corPrimaria:hover {
+    border: 5px solid red;
+    color: brown;
+    font-style: italic;
+}
+
+.corSecundaria:hover {
+    color: gray;
+}
+
+.corComplementar:hover {
+    color: blueviolet;
+    font-size: larger;
+    font-style: italic;
+}
+
+.corEscura:hover {
+    color: red;
+}
+
+.corClara:hover {
+    color: yellow;
+    font-style: italic;
+}
