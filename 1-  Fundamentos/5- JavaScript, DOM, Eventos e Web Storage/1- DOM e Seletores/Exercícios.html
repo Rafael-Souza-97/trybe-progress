@@ -68,16 +68,28 @@
 
     } vermelhoParaBranco ("white")
     
-
-    function a4 () {
+    function corrigeTextoH1 (textH1) {
         let text = document.querySelector("h1");
-        return text.innerText = "Exercício 5.1 - JavaScript";
+        text.innerText = textH1;
+      
     }
-    a4 ()
+    corrigeTextoH1("Exercício 5.1 - JavaScript")
 
-    function a5 () {
-        let 
+    function textoTagPMaiusculo () {
+       let textTagP = document.querySelectorAll("p");
+       for ( let index in textTagP) {
+      textTagP[index].innerText = textTagP[index].innerText.toUpperCase();
     }
+    }
+    textoTagPMaiusculo()
+
+    function mostraTags () {
+    let showTag = document.getElementsByTagName('p');
+    for ( let index = 0 ; index < showTag.length; index += 1) {
+      console.log(showTag[index].innerText);
+    }
+    }
+    mostraTags()
 
     </script>
   </body>
