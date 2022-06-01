@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+    <form action="" method="get">
+        <!-- <form action="" method="post" enctype="multipart/form-data"></form> -->
+        <!-- usar a propriedade enctype se for adicionar arquivos -->
+     <input type="file" name="file" id="">
+<br>
+    <label for="esporte-1"><input type="checkbox" id="esporte-1" value="fut" name="esporte" checked> Futebol</label>
+    <input type="checkbox" id="esporte-2" value="vol" name="esporte" > volei
+    <input type="checkbox" id="esporte-3" value="pet" name="esporte" > Peteca
+    <input type="checkbox" id="esporte-4" value="bas" name="esporte" > Basquete
+<!-- os "name" devem ser todos iguais -->
+<!-- A tag LABEL, permite clicar no nome para selecionar a caixinha também!! -->
+<br>
+<br>
+<input type="radio" name="hub" id="hub1" value="sp">São Paulo
+<input type="radio" name="hub" id="hub2" value="mg">Minas Gerais
+<input type="radio" name="hub" id="hub3" value="fl">Florianópolis
+<input type="radio" name="hub" id="hub4" value="mc">Macedonia
+<br>
+<br>
+<select name="estado" id="dropdown-estado">
+    <option value="SP">São Paulo</option>
+    <option value="BA">Bahia</option>
+    <option value="MG">Minas Gerais</option>
+    <option value="RJ">Rio de Janeiro</option>
+</select>
+<br>
+
+<p>USUÁRIO</p>
+<input type="text" name="user" id="" required>
+<p>Senha</p>
+<input type="password" name="senha" id="" required>
+<br>
+<button type="submit">Enviar</button>
+</form>
+</body>
+</html>
