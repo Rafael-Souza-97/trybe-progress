@@ -68,10 +68,10 @@ comportamentais.
 - [x] 7.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 8:
-- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [x] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
+- [x] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
+- [x] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [ ] 8.5 - Projeto - Zoo functions
 
 ##### Bloco 9:
