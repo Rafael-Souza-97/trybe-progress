@@ -47,8 +47,8 @@ comportamentais.
 - [x] 5.4 - JavaScript - Web Storage
 - [x] 5.5 - Fundamentos - JavaScript - Projetos
 - [x] 5.5 - Projeto - Arte com Pixels
-- [x] 5.6 - Projeto - Lista de tarefas
-- [x] 5.7 - (Bônus) Projeto - Meme Generator
+- [ ] 5.6 - (Bônus) Projeto - Lista de tarefas
+- [ ] 5.7 - (Bônus) Projeto - Meme Generator
 - [x] 5.7 - (Bônus) Projeto - Adivinhe a Cor
 - [x] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
@@ -63,27 +63,18 @@ comportamentais.
 
 ##### Bloco 7:
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
-- [x] 7.2 - JavaScript ES6 - Objects
-- [x] 7.3 - Testes unitários em JavaScript
+- [x] 7.2 - JavaScript ES6 - Fluxo de Exceção e Objetos
+- [x] 7.3 - Primeiros passos em Jest
 - [x] 7.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 8:
-- [x] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [x] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
-- [x] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [x] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 8.5 - Projeto - Zoo functions
+- [x] 8.2 - JavaScript ES6 - introdução a High Order Functions
+- [x] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
+- [x] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
+- [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [ ] 8.6 - Projeto - Zoo functions
 
-##### Bloco 9:
-- [ ] 9.1 - JavaScript Assíncrono e Callbacks
-- [ ] 9.2 - JavaScript Promises
-- [ ] 9.3 - Projeto - Carrinho de Compras
-
-##### Bloco 10:
-- [ ] 10.1 - Primeiros passos no Jest
-- [ ] 10.2 - Jest - Testes Assíncronos
-- [ ] 10.3 - Jest - Simulando comportamentos
-- [ ] 10.4 - Projeto - Jest Assíncrono e Mocking
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
