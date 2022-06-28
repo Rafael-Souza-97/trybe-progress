@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <style>
+        html{
+            background-color: rgb(239, 239, 239);
+        }
+        h1{
+            padding: 20px;
+            text-align: center;
+        }
+
+        .space {
+            margin-left: 20px;
+            margin-right: 5px;
+            margin-bottom: 25px;
+        }
+
+        .textarea {
+            resize: none;
+        }
+
+        .button {
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header class="container">
+        <h1 class="subtitle is-1" >Formulário</h1>
+    </header>
+
+    <form action="" method="GET">
+        <main class="container">
+            <div class="user space">
+                <label for="name" class="lead">Nome: 
+                    <input type="text" id="name" class="input is-rounded" name="name-user" minlength="10" maxlength="40"  placeholder="Digite seu nome completo" required>
+                </label>
+                <br>
+                <br>
+                <label for="email">Email: 
+                    <input type="email" id="email" class="input is-rounded" name="email-user" minlength="10" maxlength="40" placeholder="E-mail" required>
+                </label>
+            </div>
+
+            <div class="radio space container">
+                <label for="op1" class="radio">Destino Preferido:
+                    <input class="space" type="radio" name="options" id="op1" required>Cidade
+                </label>
+                <label for="op2">
+                    <input class="space" type="radio" name="options" id="op2" required>Campo
+                </label>
+                <label for="op3">
+                    <input class="space" type="radio" name="options" id="op3" required>Praia
+                </label>
+                <label for="op4">
+                    <input class="space" type="radio" name="options" id="op4" required>Montanhas
+                </label>
+            </div>
+
+            <div class="control space">
+                <label for="textarea" >Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?
+                    <textarea class="control textarea is-small" name="text" id="textarea" cols="36" rows="10" placeholder="Digite aqui o seu motivo" minlength="10"  maxlength="500" ></textarea>
+                </label>
+            </div>
+
+            <div class="data-year space">
+                <label for="data">Qual a melhor data para realizar sua viagem?
+                    <input type="date" name="date" id="data" required>
+                </label>
+            </div>
+            
+            <div class="check space">
+                <label for="check-1">
+                    <input type="checkbox" name="checkbox" id="check-1"> Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?
+                </label>
+                <br>
+                <label for="check-2">
+                    <input type="checkbox" name="checkbox" id="check-2" required> Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.
+                </label>
+            </div>
+        </main>
+        <section class="container">
+            <div class="button-container">
+                <button class="button is-primary" type="submit" id="submit-btn">Participar do concurso TrybeTrip</button>
+                <button class="button is-danger" type="reset" id="clear-btn">Apagar informações</button>
+            </div>
+        </section>
+
+    </form>
+
+    <script>
+        // function submitStop (event) {
+        //     event.preventDefault();
+        // }
+
+        // window.onload = function (){
+        //     const submitBtn = document.getElementById('submit-btn')
+        //     submitBtn.addEventListener('click', submitStop);
+        // };
+    </script>
+</body>
+</html>

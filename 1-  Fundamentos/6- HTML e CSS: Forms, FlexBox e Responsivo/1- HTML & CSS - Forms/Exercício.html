@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <style>
+        header {
+            padding: 20px;
+        }
+
+        main {
+            border: 2px solid black;
+            padding: 1.5%;
+            margin-right: 70%;
+        }
+
+        .input {
+            width: 70%;
+        }
+
+        .space {
+            margin-bottom: 25px;
+        }
+
+        #data {
+            margin-left: 2%;
+        }
+
+        textarea {
+            margin-top: 7px;
+            width: 100%;
+            resize: none;
+        }
+
+        .button-container{
+            margin: 10px;
+        }
+
+        #submit-btn {
+        background-color: lightgreen;
+        padding: 10px;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>HEADER DA PÁGINA</h1>
+    </header>
+
+    <form action="" method="GET">
+        <main>
+            <div class="user space">
+                <label for="name">Nome: 
+                    <input type="text" id="name" class="input" name="name-user" minlength="10" maxlength="40"  placeholder="Digite seu nome completo">
+                </label>
+                <br>
+                <br>
+                <label for="email">Email: 
+                    <input type="email" id="email" class="input" name="email-user" minlength="10" maxlength="40" >
+                </label>
+            </div>
+
+            <div class="radio space" >
+                <label for="op1"> Destino Preferido:
+                    <input type="radio" name="options" id="op1" >Cidade
+                </label>
+                <label for="op2">
+                    <input type="radio" name="options" id="op2" >Campo
+                </label>
+                <label for="op3">
+                    <input type="radio" name="options" id="op3" >Praia
+                </label>
+                <label for="op4">
+                    <input type="radio" name="options" id="op4" >Montanhas
+                </label>
+            </div>
+
+            <div class="text space">
+                <label for="textarea">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?
+                    <textarea name="text" id="textarea" cols="36" rows="10" placeholder="Digite aqui o seu motivo" maxlength="500" ></textarea>
+                </label>
+            </div>
+
+            <div class="data-year space">
+                <label for="data">Qual a melhor data para realizar sua viagem?
+                    <input type="date" name="date" id="data" >
+                </label>
+            </div>
+            
+            <div class="check space">
+                <label for="check-1">
+                    <input type="checkbox" name="checkbox" id="check-1"> Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?
+                </label>
+                <br>
+                <label for="check-2">
+                    <input type="checkbox" name="checkbox" id="check-2" > Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.
+                </label>
+            </div>
+        </main>
+
+        <section>
+            <div class="button-container">
+                <button type="submit" id="submit-btn">Participar do concurso TrybeTrip</button>
+                <button type="button" id="clear-btn">Apagar informações</button>
+            </div>
+        </section>
+    </form>
+
+    <script>
+        function submitStop (event) {
+            event.preventDefault();
+        }
+
+        function clearFields() {
+        const formElements = document.querySelectorAll('input');
+        const textArea = document.querySelector('textarea');
+        for (let index = 0; index < formElements.length; index += 1) {
+            const userInput = formElements[index];
+            userInput.value = '';
+            userInput.checked = false;
+        }
+        textArea.value = '';
+}
+
+        window.onload = function (){
+            const submitBtn = document.getElementById('submit-btn')
+            submitBtn.addEventListener('click', submitStop);
+            const clearBtn = document.querySelector('#clear-btn');
+            clearBtn.addEventListener('click', clearFields);
+        };
+    </script>
+</body>
+</html>
