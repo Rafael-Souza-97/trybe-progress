@@ -12,7 +12,7 @@ comportamentais.
 
 <!-- heavy_check_mark -->
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
 ##### Bloco 1:
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
@@ -73,57 +73,63 @@ comportamentais.
 - [x] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
 - [x] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 8.6 - Projeto - Zoo functions
+- [x] 8.6 - Projeto - Zoo functions
 
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
+##### Bloco 9:
+- [x] 9.1 - Introdução - Front-end
+- [x] 9.1 - JavaScript Assincrono e Callbacks
+- [ ] 9.2 - JavaScript Assincrono - Fetch API e async/await
+- [ ] 9.3 - Jest - Testes Assincronos
+- [ ] 9.4 - Projeto - Carrinho de Compras
+
+##### Bloco 10:
+- [ ] 10.1 - Introdução - React
+- [ ] 10.1 - 'Hello, world!' no React!
+- [ ] 10.2 - Componentes React
+- [ ] 10.3 - Projeto - Sistema Solar
+
 ##### Bloco 11:
-- [ ] 11.1 - Introdução - Front-end
-- [ ] 11.1 - Introdução - React
-- [ ] 11.1 - 'Hello, world!' no React!
-- [ ] 11.2 - Componentes React
-- [ ] 11.3 - Projeto - Movie Cards Library
+- [ ] 11.1 - Componentes com estado e eventos
+- [ ] 11.2 - Formulários no React
+- [ ] 11.3 - Projeto - Tryunfo
 
 ##### Bloco 12:
-- [ ] 12.1 - Componentes com estado e eventos
-- [ ] 12.2 - Formulários no React
-- [ ] 12.3 - Projeto - Movie Cards Library Stateful
+- [ ] 12.1 - Ciclo de vida de componentes
+- [ ] 12.2 - React Router
+- [ ] 12.3 - Projeto - TrybeTunes
 
 ##### Bloco 13:
-- [ ] 13.1 - Ciclo de vida de componentes
-- [ ] 13.2 - React Router
-- [ ] 13.3 - Projeto - Movie Cards Library CRUD
+- [ ] 13.1 - Metodologias Ágeis
+- [ ] 13.2 - Projeto - Frontend Online Store
 
 ##### Bloco 14:
-- [ ] 14.1 - Metodologias Ágeis
-- [ ] 14.2 - Projeto - Frontend Online Store
+- [ ] 14.1 - RTL - Primeiros passos
+- [ ] 14.2 - RTL - Mocks e Inputs
+- [ ] 14.3 - RTL - Testando React Router
+- [ ] 14.4 - Projeto - Testes em React
 
 ##### Bloco 15:
-- [ ] 15.1 - RTL - Primeiros passos
-- [ ] 15.2 - RTL - Mocks e Inputs
-- [ ] 15.3 - RTL - Testando React Router
-- [ ] 15.4 - Projeto - Testes em React
+- [ ] 15.1 - Introdução ao Redux - O estado global da aplicação
+- [ ] 15.2 - Usando o Redux no React
+- [ ] 15.3 - Usando o Redux no React - Prática
+- [ ] 15.4 - Usando o Redux no React - Actions Assíncronas
+- [ ] 15.5 - Testes síncronos com React-Redux
+- [ ] 15.6 - Projeto - Trybe Wallet
 
 ##### Bloco 16:
-- [ ] 16.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 16.2 - Usando o Redux no React
-- [ ] 16.3 - Usando o Redux no React - Prática
-- [ ] 16.4 - Usando o Redux no React - Actions Assíncronas
-- [ ] 16.5 - Testes síncronos com React-Redux
-- [ ] 16.6 - Projeto - Tabela com filtros de dados
+- [ ] 16.1 - Projeto - Jogo de Trivia
 
-##### Bloco 17: Projeto Jogo de Trivia
-- [ ] 17.1 - Projeto - Jogo de Trivia
+##### Bloco 17:
+- [ ] 17.1 - Context API do React
+- [ ] 17.2 - React Hooks - useState e useContext
+- [ ] 17.3 - React Hooks - useEffect e Hooks customizados
+- [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
 
-##### Bloco 18:
-- [ ] 18.1 - Context API do React
-- [ ] 18.2 - React Hooks - useState e useContext
-- [ ] 18.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
-
-##### Bloco 19: Projeto App de Receitas
-- [ ] 19.1 - Projeto - App de Receitas
+##### Bloco 18: Projeto App de Receitas
+- [ ] 18.1 - Projeto - App de Receitas
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
