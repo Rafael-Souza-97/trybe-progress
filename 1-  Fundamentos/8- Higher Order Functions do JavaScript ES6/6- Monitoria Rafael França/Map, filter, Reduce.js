@@ -229,7 +229,7 @@
     return acc;
   }, { maiores: [], menores: [] });
   
-  console.log('Pessoas Agrupadas', pessoasAgrupadas);
+  console.log(pessoasAgrupadas);
   }
   
   // // CONSTRUÍNDO NOSSA PROPRIA HOF
