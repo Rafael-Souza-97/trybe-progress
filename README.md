@@ -128,8 +128,9 @@ comportamentais.
 - [ ] 17.3 - React Hooks - useEffect e Hooks customizados
 - [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
 
-##### Bloco 18: Projeto App de Receitas
+##### Bloco 18:
 - [ ] 18.1 - Projeto - App de Receitas
+
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
