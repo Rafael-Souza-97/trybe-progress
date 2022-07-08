@@ -85,8 +85,8 @@ comportamentais.
 ##### Bloco 9:
 - [x] 9.1 - Introdução - Front-end
 - [x] 9.1 - JavaScript Assincrono e Callbacks
-- [ ] 9.2 - JavaScript Assincrono - Fetch API e async/await
-- [ ] 9.3 - Jest - Testes Assincronos
+- [x] 9.2 - JavaScript Assincrono - Fetch API e async/await
+- [x] 9.3 - Jest - Testes Assincronos
 - [ ] 9.4 - Projeto - Carrinho de Compras
 
 ##### Bloco 10:
