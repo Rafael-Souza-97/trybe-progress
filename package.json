@@ -1,0 +1,24 @@
+{
+  "name": "trybe-exercises",
+  "version": "1.0.0",
+  "description": "Este repositório contém todas as atividades de aprendizagem desenvolvidas por Rafael Souza enquanto estudava na Trybe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael-Souza-97/Exercicios-Trybe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafael-Souza-97/Exercicios-Trybe/issues"
+  },
+  "homepage": "https://github.com/Rafael-Souza-97/Exercicios-Trybe#readme",
+  "dependencies": {
+    "jest": "^28.1.2",
+    "node-fetch": "^2.6.7"
+  }
+}
