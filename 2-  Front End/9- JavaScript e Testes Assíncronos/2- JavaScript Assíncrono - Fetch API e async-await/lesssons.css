@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 14rem;
+  margin: 1rem;
+} 
