@@ -87,11 +87,11 @@ comportamentais.
 - [x] 9.1 - JavaScript Assincrono e Callbacks
 - [x] 9.2 - JavaScript Assincrono - Fetch API e async/await
 - [x] 9.3 - Jest - Testes Assincronos
-- [ ] 9.4 - Projeto - Carrinho de Compras
+- [x] 9.4 - Projeto - Carrinho de Compras
 
 ##### Bloco 10:
-- [ ] 10.1 - Introdução - React
-- [ ] 10.1 - 'Hello, world!' no React!
+- [x] 10.1 - Introdução - React
+- [x] 10.1 - 'Hello, world!' no React!
 - [ ] 10.2 - Componentes React
 - [ ] 10.3 - Projeto - Sistema Solar
 
@@ -138,8 +138,14 @@ comportamentais.
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
+##### Bloco 19:
+- [ ] 19.1 - Introdução - Back-end
+- [ ] 19.1 - Utilizando Containers - Docker
+- [ ] 19.2 - Manipulando Imagens no Docker
+- [ ] 19.3 - Orquestrando Containers com Docker Compose
+- [ ] 19.4 - Projeto - Docker Todo-List
+
 ##### Bloco 20:
-- [ ] 20.1 - Introdução - Back-end
 - [ ] 20.1 - Introdução - Bancos de dados relacionais
 - [ ] 20.1 - Banco de dados SQL
 - [ ] 20.2 - Encontrando dados em um banco de dados
