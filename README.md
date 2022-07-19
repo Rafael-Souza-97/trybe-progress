@@ -92,7 +92,7 @@ comportamentais.
 ##### Bloco 10:
 - [x] 10.1 - Introdução - React
 - [x] 10.1 - 'Hello, world!' no React!
-- [ ] 10.2 - Componentes React
+- [x] 10.2 - Componentes React
 - [ ] 10.3 - Projeto - Sistema Solar
 
 ##### Bloco 11:
