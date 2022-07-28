@@ -97,11 +97,11 @@ comportamentais.
 
 ##### Bloco 11:
 - [x] 11.1 - Componentes com estado e eventos
-- [ ] 11.2 - Formulários no React
-- [ ] 11.3 - Projeto - Tryunfo
+- [x] 11.2 - Formulários no React
+- [x] 11.3 - Projeto - Tryunfo
 
 ##### Bloco 12:
-- [ ] 12.1 - Ciclo de vida de componentes
+- [x] 12.1 - Ciclo de vida de componentes
 - [ ] 12.2 - React Router
 - [ ] 12.3 - Projeto - TrybeTunes
 
