@@ -102,23 +102,23 @@ comportamentais.
 
 ##### Bloco 12:
 - [x] 12.1 - Ciclo de vida de componentes
-- [ ] 12.2 - React Router
-- [ ] 12.3 - Projeto - TrybeTunes
+- [x] 12.2 - React Router
+- [x] 12.3 - Projeto - TrybeTunes
 
 ##### Bloco 13:
-- [ ] 13.1 - Metodologias Ágeis
-- [ ] 13.2 - Projeto - Frontend Online Store
+- [x] 13.1 - Metodologias Ágeis
+- [x] 13.2 - Projeto - Frontend Online Store
 
 ##### Bloco 14:
-- [ ] 14.1 - RTL - Primeiros passos
-- [ ] 14.2 - RTL - Mocks e Inputs
-- [ ] 14.3 - RTL - Testando React Router
-- [ ] 14.4 - Projeto - Testes em React
+- [x] 14.1 - RTL - Primeiros passos
+- [x] 14.2 - RTL - Mocks e Inputs
+- [x] 14.3 - RTL - Testando React Router
+- [x] 14.4 - Projeto - Testes em React
 
 ##### Bloco 15:
-- [ ] 15.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 15.2 - Usando o Redux no React
-- [ ] 15.3 - Usando o Redux no React - Prática
+- [x] 15.1 - Introdução ao Redux - O estado global da aplicação
+- [x] 15.2 - Usando o Redux no React
+- [x] 15.3 - Usando o Redux no React - Prática
 - [ ] 15.4 - Usando o Redux no React - Actions Assíncronas
 - [ ] 15.5 - Testes síncronos com React-Redux
 - [ ] 15.6 - Projeto - Trybe Wallet
