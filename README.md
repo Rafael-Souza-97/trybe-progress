@@ -124,13 +124,13 @@ comportamentais.
 - [x] 15.6 - Projeto - Trybe Wallet
 
 ##### Bloco 16:
-- [ ] 16.1 - Projeto - Jogo de Trivia
+- [x] 16.1 - Projeto - Jogo de Trivia
 
 ##### Bloco 17:
-- [ ] 17.1 - Context API do React
-- [ ] 17.2 - React Hooks - useState e useContext
-- [ ] 17.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [x] 17.1 - Context API do React
+- [x] 17.2 - React Hooks - useState e useContext
+- [x] 17.3 - React Hooks - useEffect e Hooks customizados
+- [x] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 18:
 - [ ] 18.1 - Projeto - App de Receitas
