@@ -80,7 +80,7 @@ comportamentais.
 - [x] 8.6 - Projeto - Zoo functions
 
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Bloco 9:
 - [x] 9.1 - Introdução - Front-end
@@ -133,7 +133,7 @@ comportamentais.
 - [x] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 18:
-- [ ] 18.1 - Projeto - App de Receitas
+- [X] 18.1 - Projeto - App de Receitas
 
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
