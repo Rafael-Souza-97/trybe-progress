@@ -141,7 +141,7 @@ comportamentais.
 - [X] 19.1 - Introdução - Back-end
 - [X] 19.1 - Utilizando Containers - Docker
 - [X] 19.2 - Manipulando Imagens no Docker
-- [ ] 19.3 - Orquestrando Containers com Docker Compose
+- [X] 19.3 - Orquestrando Containers com Docker Compose
 - [ ] 19.4 - Projeto - Docker Todo-List
 
 ##### Bloco 20:
