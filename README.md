@@ -142,7 +142,7 @@ comportamentais.
 - [X] 19.1 - Utilizando Containers - Docker
 - [X] 19.2 - Manipulando Imagens no Docker
 - [X] 19.3 - Orquestrando Containers com Docker Compose
-- [ ] 19.4 - Projeto - Docker Todo-List
+- [X] 19.4 - Projeto - Docker Todo-List
 
 ##### Bloco 20:
 - [ ] 20.1 - Introdução - Bancos de dados relacionais
