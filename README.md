@@ -28,7 +28,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [x] 3.3 - HTML & CSS - Seletores e posicionamento
 - [x] 3.4 - HTML Semântico
-- [x] 3.5 - Projeto - Lessons Learned
+- [x] 3.5 - [Projeto - Lessons Learned](https://github.com/Rafael-Souza-97/lessons-learned)
 
 ##### Bloco 4:
 - [x] 4.1 - Introdução - JavaScript
@@ -36,7 +36,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 4.2 - JavaScript - Array e loop For
 - [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [x] 4.4 - JavaScript - Objetos e funções
-- [x] 4.5 - Projeto - Playground Functions
+- [x] 4.5 - [Projeto - Playground Functions](https://github.com/Rafael-Souza-97/playground-functions)
 
 ##### Bloco 5:
 - [x] 5.1 - JavaScript - DOM e seletores
@@ -44,11 +44,11 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 5.3 - JavaScript - Eventos
 - [x] 5.4 - JavaScript - Web Storage
 - [x] 5.5 - Fundamentos - JavaScript - Projetos
-- [x] 5.5 - Projeto - Arte com Pixels
+- [x] 5.5 - [Projeto -](https://github.com/Rafael-Souza-97/pixels-art) [Arte com Pixels](https://pixels-art-gamma.vercel.app/)
 - [ ] 5.6 - (Bônus) Projeto - Lista de tarefas
 - [ ] 5.7 - (Bônus) Projeto - Meme Generator
-- [x] 5.7 - (Bônus) Projeto - Adivinhe a Cor
-- [x] 5.7 - (Bônus) Projeto - Carta Misteriosa
+- [x] 5.7 - (Bônus) [Projeto -](https://github.com/Rafael-Souza-97/color-guess) [Adivinhe a Cor](https://color-guess-rouge.vercel.app/)
+- [x] 5.7 - (Bônus) [Projeto -](https://github.com/Rafael-Souza-97/mistery-letter) [Carta Misteriosa](https://mistery-letter-beta.vercel.app/)
 
 ##### Bloco 6:
 - [x] 6.1 - HTML & CSS - Forms
