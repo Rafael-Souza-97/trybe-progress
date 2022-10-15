@@ -47,8 +47,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 5.5 - [Projeto -](https://github.com/Rafael-Souza-97/pixels-art) [Arte com Pixels](https://pixels-art-gamma.vercel.app/)
 - [ ] 5.6 - (Bônus) Projeto - Lista de tarefas
 - [ ] 5.7 - (Bônus) Projeto - Meme Generator
-- [x] 5.7 - (Bônus) [Projeto -](https://github.com/Rafael-Souza-97/color-guess) [Adivinhe a Cor](https://color-guess-rouge.vercel.app/)
-- [x] 5.7 - (Bônus) [Projeto -](https://github.com/Rafael-Souza-97/mistery-letter) [Carta Misteriosa](https://mistery-letter-beta.vercel.app/)
+- [x] 5.7 - [(Bônus) Projeto -](https://github.com/Rafael-Souza-97/color-guess) [Adivinhe a Cor](https://color-guess-rouge.vercel.app/)
+- [x] 5.7 - [(Bônus) Projeto -](https://github.com/Rafael-Souza-97/mistery-letter) [Carta Misteriosa](https://mistery-letter-beta.vercel.app/)
 
 ##### Bloco 6:
 - [x] 6.1 - HTML & CSS - Forms
@@ -57,7 +57,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 6.3 - CSS Flexbox - Parte 1
 - [x] 6.4 - CSS Flexbox - Parte 2
 - [x] 6.5 - CSS Responsivo - Mobile First
-- [x] 6.6 - Projeto - Página inicial do Facebook
+- [x] 6.6 - Projeto - TrybeWarts
 
 ##### Bloco 7:
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
@@ -81,13 +81,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 9.1 - JavaScript Assincrono e Callbacks
 - [x] 9.2 - JavaScript Assincrono - Fetch API e async/await
 - [x] 9.3 - Jest - Testes Assincronos
-- [x] 9.4 - Projeto - Carrinho de Compras
+- [x] 9.4 - [Projeto -](https://github.com/Rafael-Souza-97/shopping-cart) [Carrinho de Compras](https://shopping-cart-roan-one.vercel.app/)
 
 ##### Bloco 10:
 - [x] 10.1 - Introdução - React
 - [x] 10.1 - 'Hello, world!' no React!
 - [x] 10.2 - Componentes React
-- [x] 10.3 - Projeto - Sistema Solar
+- [x] 10.3 - [Projeto - Sistema Solar](https://github.com/Rafael-Souza-97/solar-system)
 
 ##### Bloco 11:
 - [x] 11.1 - Componentes com estado e eventos
@@ -115,7 +115,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 15.3 - Usando o Redux no React - Prática
 - [x] 15.4 - Usando o Redux no React - Actions Assíncronas
 - [x] 15.5 - Testes síncronos com React-Redux
-- [x] 15.6 - Projeto - Trybe Wallet
+- [x] 15.6 - [Projeto -](https://github.com/Rafael-Souza-97/exchange-wallet) [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
 
 ##### Bloco 16:
 - [x] 16.1 - Projeto - Jogo de Trivia
@@ -137,7 +137,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 19.1 - Utilizando Containers - Docker
 - [X] 19.2 - Manipulando Imagens no Docker
 - [X] 19.3 - Orquestrando Containers com Docker Compose
-- [X] 19.4 - Projeto - Docker Todo-List
+- [X] 19.4 - [Projeto - Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
 
 ##### Bloco 20:
 - [X] 20.1 - Introdução - Bancos de dados relacionais
