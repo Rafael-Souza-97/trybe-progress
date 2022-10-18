@@ -140,11 +140,10 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 19.4 - [Projeto - Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
 
 ##### Bloco 20:
-- [X] 20.1 - Introdução - Bancos de dados relacionais
 - [X] 20.1 - Banco de dados SQL
 - [X] 20.2 - Encontrando dados em um banco de dados
-- [ ] 20.3 - Filtrando dados de forma específica
-- [ ] 20.4 - Manipulando tabelas
+- [X] 20.3 - Filtrando dados de forma específica
+- [X] 20.4 - Manipulando tabelas
 - [ ] 20.5 - Projeto - All For One
 
 ##### Bloco 21:
