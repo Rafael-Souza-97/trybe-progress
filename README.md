@@ -77,147 +77,154 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Bloco 1:
-- [x] 9.1 - Introdução - Front-end
-- [x] 9.1 - JavaScript Assincrono e Callbacks
-- [x] 9.2 - JavaScript Assincrono - Fetch API e async/await
-- [x] 9.3 - Jest - Testes Assincronos
-- [x] 9.4 - [Projeto -](https://github.com/Rafael-Souza-97/shopping-cart) [Carrinho de Compras](https://shopping-cart-roan-one.vercel.app/)
+- [x] 1.2 - Introdução - Front-end
+- [x] 1.2 - JavaScript Assincrono e Callbacks
+- [x] 1.3 - JavaScript Assincrono - Fetch API e async/await
+- [x] 1.4 - Jest - Testes Assincronos
+- [x] 1.5 - [Projeto -](https://github.com/Rafael-Souza-97/shopping-cart) [Carrinho de Compras](https://shopping-cart-roan-one.vercel.app/)
 
 ##### Bloco 2:
-- [x] 10.1 - Introdução - React
-- [x] 10.1 - 'Hello, world!' no React!
-- [x] 10.2 - Componentes React
-- [x] 10.3 - [Projeto - Sistema Solar](https://github.com/Rafael-Souza-97/solar-system)
+- [x] 2.1 - Introdução - React
+- [x] 2.1 - 'Hello, world!' no React!
+- [x] 2.2 - Componentes React
+- [x] 2.3 - [Projeto - Sistema Solar](https://github.com/Rafael-Souza-97/solar-system)
 
 ##### Bloco 3:
-- [x] 11.1 - Componentes com estado e eventos
-- [x] 11.2 - Formulários no React
-- [x] 11.3 - Projeto - Tryunfo
+- [x] 3.1 - Componentes com estado e eventos
+- [x] 3.2 - Formulários no React
+- [x] 3.3 - Projeto - Tryunfo
 
 ##### Bloco 4:
-- [x] 12.1 - Ciclo de vida de componentes
-- [x] 12.2 - React Router
-- [x] 12.3 - Projeto - TrybeTunes
+- [x] 4.1 - Ciclo de vida de componentes
+- [x] 4.2 - React Router
+- [x] 4.3 - Projeto - TrybeTunes
 
 ##### Bloco 5:
-- [x] 13.1 - Metodologias Ágeis
-- [x] 13.2 - Projeto - Frontend Online Store
+- [x] 5.1 - Metodologias Ágeis
+- [x] 5.2 - Projeto - Frontend Online Store
 
 ##### Bloco 6:
-- [x] 14.1 - RTL - Primeiros passos
-- [x] 14.2 - RTL - Mocks e Inputs
-- [x] 14.3 - RTL - Testando React Router
-- [x] 14.4 - Projeto - Testes em React
+- [x] 6.1 - RTL - Primeiros passos
+- [x] 6.2 - RTL - Mocks e Inputs
+- [x] 6.3 - RTL - Testando React Router
+- [x] 6.4 - Projeto - Testes em React
 
 ##### Bloco 7:
-- [x] 15.1 - Introdução ao Redux - O estado global da aplicação
-- [x] 15.2 - Usando o Redux no React
-- [x] 15.3 - Usando o Redux no React - Prática
-- [x] 15.4 - Usando o Redux no React - Actions Assíncronas
-- [x] 15.5 - Testes síncronos com React-Redux
-- [x] 15.6 - [Projeto -](https://github.com/Rafael-Souza-97/exchange-wallet) [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
+- [x] 7.1 - Introdução ao Redux - O estado global da aplicação
+- [x] 7.2 - Usando o Redux no React
+- [x] 7.3 - Usando o Redux no React - Prática
+- [x] 7.4 - Usando o Redux no React - Actions Assíncronas
+- [x] 7.5 - Testes síncronos com React-Redux
+- [x] 7.6 - [Projeto -](https://github.com/Rafael-Souza-97/exchange-wallet) [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
 
 ##### Bloco 8:
-- [x] 16.1 - Projeto - Jogo de Trivia
+- [x] 8.1 - Projeto - Jogo de Trivia
 
 ##### Bloco 9:
-- [x] 17.1 - Context API do React
-- [x] 17.2 - React Hooks - useState e useContext
-- [x] 17.3 - React Hooks - useEffect e Hooks customizados
-- [x] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [x] 9.1 - Context API do React
+- [x] 9.2 - React Hooks - useState e useContext
+- [x] 9.3 - React Hooks - useEffect e Hooks customizados
+- [x] 9.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 10:
-- [X] 18.1 - Projeto - App de Receitas
+- [X] 10.1 - Projeto - App de Receitas
 
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 1:
-- [X] 19.1 - Introdução - Back-end
-- [X] 19.1 - Utilizando Containers - Docker
-- [X] 19.2 - Manipulando Imagens no Docker
-- [X] 19.3 - Orquestrando Containers com Docker Compose
-- [X] 19.4 - [Projeto - Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
+##### Bloco 1 - Docker: Utilizando Containers;
+- [X] 1.1 - Utilizando Containers - Docker
+- [X] 1.2 - Manipulando Imagens no Docker
+- [X] 1.3 - Orquestrando Containers com Docker Compose
+- [X] 1.4 - [Projeto - Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
 
-##### Bloco 2:
-- [X] 20.1 - Banco de dados SQL
-- [X] 20.2 - Encontrando dados em um banco de dados
-- [X] 20.3 - Filtrando dados de forma específica
-- [X] 20.4 - Manipulando tabelas
-- [ ] 20.5 - Projeto - All For One
+##### Bloco 2 - Introdução ao SQL:
+- [X] 2.1 - Banco de dados SQL
+- [X] 2.2 - Encontrando dados em um banco de dados
+- [X] 2.3 - Filtrando dados de forma específica
+- [X] 2.4 - Manipulando tabelas
+- [ ] 2.5 - Projeto - All For One
 
-##### Bloco 3:
-- [ ] 21.1 - Funções mais usadas no SQL
-- [ ] 21.2 - Descomplicando JOINs e UNIONs
-- [ ] 21.3 - Stored Routines & Subqueries
-- [ ] 21.4 - Projeto - Vocabulary Booster
+##### Bloco 3 - Funções SQÇ, JOINs e Normalização:
+- [ ] 3.1 - Funções mais usadas no SQL
+- [ ] 3.2 - Descomplicando JOINs
+- [ ] 3.3 - Transformando ideias em um modelo de banco de dados
+- [ ] 3.4 - Aula ao vivo + Projeto - One for All
+
+##### Bloco 4 - Node.js: ORM e Autenticação:
+- [ ] 4.1 - Node.js: Runtime Assíncrono
+- [ ] 4.2 - Node.js: API REST com EXPRESS
+- [ ] 4.3 - Node.js: Testes de integração
+- [ ] 4.4 - Node.js: Express e Middlewares
+- [ ] 4.5 - Node.js: Express e MySQL
+- [ ] 4.6 - Atividades + Projeto - Talker Manager
 
 ##### Bloco 4:
-- [ ] 22.1 - Transformando ideias em um modelo de banco de dados
-- [ ] 22.2 - Normalização, Formas Normais e Dumps
-- [ ] 22.3 - Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] 22.4 - Projeto - One For All
+- [ ] 4.1 - Transformando ideias em um modelo de banco de dados
+- [ ] 4.2 - Normalização, Formas Normais e Dumps
+- [ ] 4.3 - Transformando ideias em um modelo de banco de dados - Parte 2
+- [ ] 4.4 - Projeto - One For All
 
-##### Bloco 5:
-- [ ] 23.1 - Introdução - NoSQL
-- [ ] 23.1 - MongoDB - Introdução
-- [ ] 23.2 - Filter Operators
-- [ ] 23.3 - Projeto - Data Flights
+##### Bloco 5 - Arquitetura de Software: Model, Service e Controller;
+- [ ] 5.1 - Arquitetura de Software: Camada Model
+- [ ] 5.2 - Arquitetura de Software: Camada Service
+- [ ] 5.3 - Arquitetura de Software: Camada Controller
+- [ ] 5.4 - Projeto - Store Manager
 
-##### Bloco 6:
-- [ ] 24.1 - Updates Simples
-- [ ] 24.2 - Updates Complexos - Arrays - Parte 1
-- [ ] 24.3 - Updates Complexos - Arrays - Parte 2
-- [ ] 24.4 - Projeto - Commerce
+##### Bloco 6 - Node.js: ORM e Autenticação:
+- [ ] 6.1 - Updates Simples
+- [ ] 6.2 - Updates Complexos - Arrays - Parte 1
+- [ ] 6.3 - Updates Complexos - Arrays - Parte 2
+- [ ] 6.4 - Projeto - Commerce
 
 ##### Bloco 7:
-- [ ] 25.1 - Aggregation Framework - Parte 1
-- [ ] 25.2 - Aggregation Framework - Parte 2
-- [ ] 25.3 - Projeto - Aggregations
+- [ ] 7.1 - Aggregation Framework - Parte 1
+- [ ] 7.2 - Aggregation Framework - Parte 2
+- [ ] 7.3 - Projeto - Aggregations
 
 ##### Bloco 8:
-- [ ] 26.1 - Intro - NodeJS
-- [ ] 26.1 - NodeJS - Introdução
-- [ ] 26.2 - NodeJS - Fluxo Assíncrono
-- [ ] 26.3 - Testes com NodeJS
-- [ ] 26.4 - Express: HTTP com Node.js
-- [ ] 26.5 - Praticando Express
-- [ ] 26.6 - Projeto - Talker manager
+- [ ] 8.1 - Intro - NodeJS
+- [ ] 8.1 - NodeJS - Introdução
+- [ ] 8.2 - NodeJS - Fluxo Assíncrono
+- [ ] 8.3 - Testes com NodeJS
+- [ ] 8.4 - Express: HTTP com Node.js
+- [ ] 8.5 - Praticando Express
+- [ ] 8.6 - Projeto - Talker manager
 
 ##### Bloco 9:
-- [ ] 27.1 - Introdução - Arquitetura de Software
-- [ ] 27.1 - Arquitetura de Software - Camada de Model
-- [ ] 27.2 - Arquitetura de Software - Camada de Controller e Service
-- [ ] 27.3 - Arquitetura Web - Rest e Restful
-- [ ] 27.4 - Arquitetura de Software - Testando as Camadas
-- [ ] 27.5 - Projeto - Store Manager
+- [ ] 9.1 - Introdução - Arquitetura de Software
+- [ ] 9.1 - Arquitetura de Software - Camada de Model
+- [ ] 9.2 - Arquitetura de Software - Camada de Controller e Service
+- [ ] 9.3 - Arquitetura Web - Rest e Restful
+- [ ] 9.4 - Arquitetura de Software - Testando as Camadas
+- [ ] 9.5 - Projeto - Store Manager
 
 ##### Bloco 10:
-- [ ] 28.1 - NodeJS - JWT - (JSON Web Token)
-- [ ] 28.2 - NodeJS - Upload de arquivos com Multer
-- [ ] 28.3 - NodeJS - Testando APIs com Testes de Integração
-- [ ] 28.4 - Projeto - Cookmaster
+- [ ] 10.1 - NodeJS - JWT - (JSON Web Token)
+- [ ] 10.2 - NodeJS - Upload de arquivos com Multer
+- [ ] 10.3 - NodeJS - Testando APIs com Testes de Integração
+- [ ] 10.4 - Projeto - Cookmaster
 
 ##### Bloco 11:
-- [ ] 29.1 - Introdução - Deploy
-- [ ] 29.1 - Infraestrutura - Deploy com Heroku
-- [ ] 29.2 - Deploy - Gerenciadores de Processos
-- [ ] 29.3 - Projeto - Stranger Things
+- [ ] 11.1 - Introdução - Deploy
+- [ ] 11.1 - Infraestrutura - Deploy com Heroku
+- [ ] 11.2 - Deploy - Gerenciadores de Processos
+- [ ] 11.3 - Projeto - Stranger Things
 
 ##### Bloco 12:
-- [ ] 30.1 - Arquitetura - Princípios SOLID
-- [ ] 30.2 - ORM - Interface da aplicação com o banco de dados
-- [ ] 30.3 - ORM - Associations
-- [ ] 30.4 - Boas práticas na escrita de testes
-- [ ] 30.5 - Projeto - API de Blogs
+- [ ] 12.1 - Arquitetura - Princípios SOLID
+- [ ] 12.2 - ORM - Interface da aplicação com o banco de dados
+- [ ] 12.3 - ORM - Associations
+- [ ] 12.4 - Boas práticas na escrita de testes
+- [ ] 12.5 - Projeto - API de Blogs
 
 ##### Bloco 13:
-- [ ] 31.1 - Sockets - TCP/UDP & NET
-- [ ] 31.2 - Sockets - Socket.io
-- [ ] 31.3 - Projeto - Webchat
+- [ ] 13.1 - Sockets - TCP/UDP & NET
+- [ ] 13.2 - Sockets - Socket.io
+- [ ] 13.3 - Projeto - Webchat
 
 ##### Bloco 14: Projeto Trybeer II
-- [ ] 32.1 - Projeto - Trybeer v2
+- [ ] 14.1 - Projeto - Trybeer v2
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
