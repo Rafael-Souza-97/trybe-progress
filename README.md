@@ -159,12 +159,6 @@ A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida
 - [ ] 4.5 - Node.js: Express e MySQL
 - [ ] 4.6 - Atividades + Projeto - Talker Manager
 
-##### Bloco 4:
-- [ ] 4.1 - Transformando ideias em um modelo de banco de dados
-- [ ] 4.2 - Normalização, Formas Normais e Dumps
-- [ ] 4.3 - Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] 4.4 - Projeto - One For All
-
 ##### Bloco 5 - Arquitetura de Software: Model, Service e Controller;
 - [ ] 5.1 - Arquitetura de Software: Camada Model
 - [ ] 5.2 - Arquitetura de Software: Camada Service
