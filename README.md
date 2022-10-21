@@ -4,7 +4,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 <br>
 
-* A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, dedicada a contribuir para um mundo melhor!"
+A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, dedicada a contribuir para um mundo melhor!"
 
 >O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
@@ -143,10 +143,10 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 2.2 - Encontrando dados em um banco de dados
 - [X] 2.3 - Filtrando dados de forma específica
 - [X] 2.4 - Manipulando tabelas
-- [ ] 2.5 - Projeto - All For One
+- [X] 2.5 - [Projeto - All For One](https://github.com/Rafael-Souza-97/mysql-all-for-one)
 
-##### Bloco 3 - Funções SQÇ, JOINs e Normalização:
-- [ ] 3.1 - Funções mais usadas no SQL
+##### Bloco 3 - Funções SQL, JOINs e Normalização:
+- [X] 3.1 - Funções mais usadas no SQL
 - [ ] 3.2 - Descomplicando JOINs
 - [ ] 3.3 - Transformando ideias em um modelo de banco de dados
 - [ ] 3.4 - Aula ao vivo + Projeto - One for All
