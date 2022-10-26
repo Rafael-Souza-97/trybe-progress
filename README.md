@@ -147,9 +147,9 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 
 ##### Bloco 3 - Funções SQL, JOINs e Normalização:
 - [X] 3.1 - Funções mais usadas no SQL
-- [ ] 3.2 - Descomplicando JOINs
-- [ ] 3.3 - Transformando ideias em um modelo de banco de dados
-- [ ] 3.4 - Aula ao vivo + Projeto - One for All
+- [X] 3.2 - Descomplicando JOINs
+- [X] 3.3 - Transformando ideias em um modelo de banco de dados
+- [X] 3.4 - (Aula ao vivo + Projeto - One for All)[https://github.com/Rafael-Souza-97/mysql-one-for-all]
 
 ##### Bloco 4 - Node.js: ORM e Autenticação:
 - [ ] 4.1 - Node.js: Runtime Assíncrono
