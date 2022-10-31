@@ -154,7 +154,7 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 ##### Bloco 4 - Node.js: ORM e Autenticação:
 - [X] 4.1 - Node.js: Runtime Assíncrono
 - [X] 4.2 - Node.js: API REST com EXPRESS
-- [ ] 4.3 - Node.js: Testes de integração
+- [X] 4.3 - Node.js: Testes de integração
 - [ ] 4.4 - Node.js: Express e Middlewares
 - [ ] 4.5 - Node.js: Express e MySQL
 - [ ] 4.6 - Atividades + Projeto - Talker Manager
