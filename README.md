@@ -1,6 +1,6 @@
 ## Trybe
   
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Rafael Souza](https://github.com/Rafael-Souza-97) enquanto aluno da [Trybe](https://www.betrybe.com/).
+Este repositório contém alguma das atividades de aprendizagem desenvolvidas por [Rafael Souza](https://github.com/Rafael-Souza-97) enquanto aluno da [Trybe](https://www.betrybe.com/).
 
 <br>
 
