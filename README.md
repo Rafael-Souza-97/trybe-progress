@@ -157,7 +157,7 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 - [X] 4.3 - Node.js: Testes de integração
 - [X] 4.4 - Node.js: Express e Middlewares
 - [X] 4.5 - Node.js: Express e MySQL
-- [ ] 4.6 - Atividades + Projeto - Talker Manager
+- [X] 4.6 - Atividades + Projeto - Talker Manager
 
 ##### Bloco 5 - Arquitetura de Software: Model, Service e Controller;
 - [ ] 5.1 - Arquitetura de Software: Camada Model
