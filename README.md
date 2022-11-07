@@ -75,7 +75,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [x] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
 - [x] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [x] 8.6 - Projeto - Zoo functions
+- [x] 8.6 - [Projeto - Zoo functions](https://github.com/Rafael-Souza-97/zoo-functions)
 
 
 ## Desenvolvimento Front-end :heavy_check_mark:
