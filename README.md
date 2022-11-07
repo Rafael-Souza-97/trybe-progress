@@ -63,7 +63,7 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - JavaScript ES6 - Fluxo de Exceção e Objetos
 - [x] 7.3 - Primeiros passos em Jest
-- [x] 7.4 - [Projeto - JavaScript Testes Unitários(https://github.com/Rafael-Souza-97/javascript-unit-tests)
+- [x] 7.4 - [Projeto - JavaScript Testes Unitários](https://github.com/Rafael-Souza-97/javascript-unit-tests)
 
 ##### Bloco 8:
 - [x] 8.2 - JavaScript ES6 - introdução a High Order Functions
