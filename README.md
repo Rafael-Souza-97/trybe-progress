@@ -57,7 +57,7 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 - [x] 6.3 - CSS Flexbox - Parte 1
 - [x] 6.4 - CSS Flexbox - Parte 2
 - [x] 6.5 - CSS Responsivo - Mobile First
-- [x] 6.6 - Projeto - TrybeWarts
+- [x] 6.6 - [Projeto - ](https://github.com/Rafael-Souza-97/trybewarts)[TrybeWarts](https://trybewarts-seven.vercel.app/)
 
 ##### Bloco 7:
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
