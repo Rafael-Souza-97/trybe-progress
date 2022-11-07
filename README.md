@@ -91,7 +91,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [x] 2.1 - Introdução - React
 - [x] 2.1 - 'Hello, world!' no React!
 - [x] 2.2 - Componentes React
-- [x] 2.3 - [Projeto - Sistema Solar](https://github.com/Rafael-Souza-97/solar-system)
+- [x] 2.3 - [Projeto - ](https://github.com/Rafael-Souza-97/solar-system) [Sistema Solar](https://solar-system-ashy.vercel.app/)
 
 ##### Bloco 3:
 - [x] 3.1 - Componentes com estado e eventos
