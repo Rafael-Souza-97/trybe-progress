@@ -63,7 +63,7 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - JavaScript ES6 - Fluxo de Exceção e Objetos
 - [x] 7.3 - Primeiros passos em Jest
-- [x] 7.4 - Projeto - JavaScript Testes Unitários
+- [x] 7.4 - [Projeto - JavaScript Testes Unitários(https://github.com/Rafael-Souza-97/javascript-unit-tests)
 
 ##### Bloco 8:
 - [x] 8.2 - JavaScript ES6 - introdução a High Order Functions
@@ -157,7 +157,7 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 - [X] 4.3 - Node.js: Testes de integração
 - [X] 4.4 - Node.js: Express e Middlewares
 - [X] 4.5 - Node.js: Express e MySQL
-- [X] 4.6 - Atividades + Projeto - Talker Manager
+- [X] 4.6 - [Atividades + Projeto - Talker Manager](https://github.com/Rafael-Souza-97/talker-manager)
 
 ##### Bloco 5 - Arquitetura de Software: Model, Service e Controller;
 - [ ] 5.1 - Arquitetura de Software: Camada Model
