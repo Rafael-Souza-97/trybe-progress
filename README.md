@@ -164,7 +164,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 4.6 - [Atividades + Projeto - Talker Manager](https://github.com/Rafael-Souza-97/talker-manager)
 
 ##### Bloco 5 - Arquitetura de Software: Model, Service e Controller;
-- [ ] 5.1 - Arquitetura de Software: Camada Model
+- [X] 5.1 - Arquitetura de Software: Camada Model
 - [ ] 5.2 - Arquitetura de Software: Camada Service
 - [ ] 5.3 - Arquitetura de Software: Camada Controller
 - [ ] 5.4 - Projeto - Store Manager
