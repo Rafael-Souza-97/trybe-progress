@@ -165,7 +165,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 ##### Bloco 5 - Arquitetura de Software: Model, Service e Controller;
 - [X] 5.1 - Arquitetura de Software: Camada Model
-- [ ] 5.2 - Arquitetura de Software: Camada Service
+- [X] 5.2 - Arquitetura de Software: Camada Service
 - [ ] 5.3 - Arquitetura de Software: Camada Controller
 - [ ] 5.4 - Projeto - Store Manager
 
