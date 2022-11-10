@@ -8,6 +8,46 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 
 > O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
+<details>
+  <summary><strong>📚 Projetos Realizados 📚</strong></summary><br />
+
+##### 📜 Repositórios: 📜
+
+- [Lessons Learned](https://github.com/Rafael-Souza-97/lessons-learned)
+- [Playground Functions](https://github.com/Rafael-Souza-97/playground-functions)
+- [Pixels Art](https://github.com/Rafael-Souza-97/pixels-art)
+- [Color Guess](https://github.com/Rafael-Souza-97/color-guess)
+- [Mistery Letter](https://github.com/Rafael-Souza-97/mistery-letter)
+- [TrybeWarts](https://github.com/Rafael-Souza-97/trybewarts)
+- [JavaScript Testes Unitários](https://github.com/Rafael-Souza-97/javascript-unit-tests)
+- [Zoo functions](https://github.com/Rafael-Souza-97/zoo-functions)
+- [Shopping Cart](https://github.com/Rafael-Souza-97/shopping-cart)
+- [Solar System](https://github.com/Rafael-Souza-97/solar-system)
+- [Exchange Wallet](https://github.com/Rafael-Souza-97/exchange-wallet)
+- [Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
+- [All For One](https://github.com/Rafael-Souza-97/mysql-all-for-one)
+- [One for All](https://github.com/Rafael-Souza-97/mysql-one-for-all)
+- [Talker Manager](https://github.com/Rafael-Souza-97/talker-manager)
+
+<hr>
+
+##### 🖥️ Deploys: 🖥️
+
+- [Arte com Pixels](https://pixels-art-gamma.vercel.app/)
+- [Adivinhe a Cor](https://color-guess-rouge.vercel.app/)
+- [Carta Misteriosa](https://mistery-letter-beta.vercel.app/)
+- [TrybeWarts](https://trybewarts-seven.vercel.app/)
+- [Carrinho de Compras](https://shopping-cart-roan-one.vercel.app/)
+- [Sistema Solar](https://solar-system-ashy.vercel.app/)
+- [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
+
+<hr>
+ 
+### Rodando a aplicação via [Docker](https://www.docker.com/)
+
+</details>
+
+<br>
 <br>
 
 Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de vizualizar os projetos (com os links):
@@ -164,7 +204,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 ##### Bloco 5 - Arquitetura de Software: Model, Service e Controller;
 - [X] 5.1 - Arquitetura de Software: Camada Model
 - [X] 5.2 - Arquitetura de Software: Camada Service
-- [ ] 5.3 - Arquitetura de Software: Camada Controller
+- [X] 5.3 - Arquitetura de Software: Camada Controller
 - [ ] 5.4 - Projeto - Store Manager
 
 ##### Bloco 6 - Node.js: ORM e Autenticação:
