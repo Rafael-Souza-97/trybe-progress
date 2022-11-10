@@ -1,6 +1,6 @@
 ## Trybe
   
-Este repositório contém algumas as atividades de aprendizagem desenvolvidas por [Rafael Souza](https://github.com/Rafael-Souza-97) enquanto aluno da [Trybe](https://www.betrybe.com/).
+Este repositório contém algumas das atividades de aprendizagem desenvolvidas por [Rafael Souza](https://github.com/Rafael-Souza-97) enquanto aluno da [Trybe](https://www.betrybe.com/).
 
 <br>
 
@@ -83,12 +83,11 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [x] 5.2 - JavaScript - Trabalhando com elementos
 - [x] 5.3 - JavaScript - Eventos
 - [x] 5.4 - JavaScript - Web Storage
-- [x] 5.5 - Fundamentos - JavaScript - Projetos
 - [x] 5.5 - [Projeto -](https://github.com/Rafael-Souza-97/pixels-art) [Arte com Pixels](https://pixels-art-gamma.vercel.app/)
-- [ ] 5.6 - (Bônus) Projeto - Lista de tarefas
-- [ ] 5.7 - (Bônus) Projeto - Meme Generator
 - [x] 5.7 - [(Bônus) Projeto -](https://github.com/Rafael-Souza-97/color-guess) [Adivinhe a Cor](https://color-guess-rouge.vercel.app/)
 - [x] 5.7 - [(Bônus) Projeto -](https://github.com/Rafael-Souza-97/mistery-letter) [Carta Misteriosa](https://mistery-letter-beta.vercel.app/)
+<!-- [ ] 5.6 - (Bônus) Projeto - Lista de tarefas -->
+<!-- [ ] 5.7 - (Bônus) Projeto - Meme Generator -->
 
 ##### Bloco 6:
 - [x] 6.1 - HTML & CSS - Forms
