@@ -42,8 +42,6 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 - [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
 
 <hr>
- 
-### Rodando a aplicação via [Docker](https://www.docker.com/)
 
 </details>
 
