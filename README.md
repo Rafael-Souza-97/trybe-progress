@@ -48,7 +48,6 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 </details>
 
 <br>
-<br>
 
 Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de vizualizar os projetos (com os links):
 
