@@ -30,6 +30,7 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 - [All For One](https://github.com/Rafael-Souza-97/mysql-all-for-one)
 - [One for All](https://github.com/Rafael-Souza-97/mysql-one-for-all)
 - [Talker Manager](https://github.com/Rafael-Souza-97/talker-manager)
+- [Store Manager](https://github.com/Rafael-Souza-97/store-manager)
 
 <hr>
 
@@ -203,7 +204,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 5.1 - Arquitetura de Software: Camada Model
 - [X] 5.2 - Arquitetura de Software: Camada Service
 - [X] 5.3 - Arquitetura de Software: Camada Controller
-- [ ] 5.4 - Projeto - Store Manager
+- [X] 5.4 - [Projeto - Store Manager](https://github.com/Rafael-Souza-97/store-manager)
 
 ##### Bloco 6 - Node.js: ORM e Autenticação:
 - [ ] 6.1 - Updates Simples
