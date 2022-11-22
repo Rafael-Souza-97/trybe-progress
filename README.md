@@ -216,14 +216,11 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 ##### Bloco 7 - Masterclass: Implantação de aplicações na nuvem:
 - [ ] 7.1 - Infraestrutura: deploy com Railway
 
-##### Bloco 8:
-- [ ] 8.1 - Intro - NodeJS
-- [ ] 8.1 - NodeJS - Introdução
-- [ ] 8.2 - NodeJS - Fluxo Assíncrono
-- [ ] 8.3 - Testes com NodeJS
-- [ ] 8.4 - Express: HTTP com Node.js
-- [ ] 8.5 - Praticando Express
-- [ ] 8.6 - Projeto - Talker manager
+##### Bloco 8 - Typescript:
+- [ ] 8.1 - Intro - Typescript
+- [ ] 8.2 - Tipagem estática e generics
+- [ ] 8.3 - Express com Typescript
+- [ ] 8.4 - Projeto - Trybesmith
 
 ##### Bloco 9:
 - [ ] 9.1 - Introdução - Arquitetura de Software
