@@ -173,7 +173,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 1 - Docker: Utilizando Containers;
+##### Bloco 1 - Docker: Utilizando Containers:
 - [X] 1.1 - Utilizando Containers - Docker
 - [X] 1.2 - Manipulando Imagens no Docker
 - [X] 1.3 - Orquestrando Containers com Docker Compose
@@ -200,22 +200,21 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 4.5 - Node.js: Express e MySQL
 - [X] 4.6 - [Atividades + Projeto - Talker Manager](https://github.com/Rafael-Souza-97/talker-manager)
 
-##### Bloco 5 - Arquitetura de Software: Model, Service e Controller;
+##### Bloco 5 - Arquitetura de Software: Model, Service e Controller:
 - [X] 5.1 - Arquitetura de Software: Camada Model
 - [X] 5.2 - Arquitetura de Software: Camada Service
 - [X] 5.3 - Arquitetura de Software: Camada Controller
 - [X] 5.4 - [Projeto - Store Manager](https://github.com/Rafael-Souza-97/store-manager)
 
 ##### Bloco 6 - Node.js: ORM e Autenticação:
-- [ ] 6.1 - Updates Simples
-- [ ] 6.2 - Updates Complexos - Arrays - Parte 1
-- [ ] 6.3 - Updates Complexos - Arrays - Parte 2
-- [ ] 6.4 - Projeto - Commerce
+- [X] 6.1 - ORM - Interface da aplicação com o banco de dados
+- [ ] 6.2 - ORM - Associations 1:1 e 1:N
+- [ ] 6.3 - ORM - Associations N:N e transactions
+- [ ] 6.4 - JWT - (JSON Web Token)
+- [ ] 6.5 - Projeto - API de Blogs
 
-##### Bloco 7:
-- [ ] 7.1 - Aggregation Framework - Parte 1
-- [ ] 7.2 - Aggregation Framework - Parte 2
-- [ ] 7.3 - Projeto - Aggregations
+##### Bloco 7 - Masterclass: Implantação de aplicações na nuvem:
+- [ ] 7.1 - Infraestrutura: deploy com Railway
 
 ##### Bloco 8:
 - [ ] 8.1 - Intro - NodeJS
