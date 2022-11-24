@@ -295,3 +295,5 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [ ] 38.1 - Nó e Listas Encadeadas
 - [ ] 38.2 - Deque
 - [ ] 38.3 - Pilhas
+
+<hr>
