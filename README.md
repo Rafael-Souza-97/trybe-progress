@@ -208,8 +208,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 ##### Bloco 6 - Node.js: ORM e Autenticação:
 - [X] 6.1 - ORM - Interface da aplicação com o banco de dados
-- [ ] 6.2 - ORM - Associations 1:1 e 1:N
-- [ ] 6.3 - ORM - Associations N:N e transactions
+- [X] 6.2 - ORM - Associations 1:1 e 1:N
+- [X] 6.3 - ORM - Associations N:N e transactions
 - [ ] 6.4 - JWT - (JSON Web Token)
 - [ ] 6.5 - Projeto - API de Blogs
 
