@@ -249,7 +249,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 ##### Bloco 14: MasterClass - VPS, CI/CD:
 - [ ] 14.1 - VPS
-- [ ] 14.2 - Dia 2
+- [ ] 14.2 - CI/CD
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
