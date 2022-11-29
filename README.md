@@ -208,7 +208,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 6.1 - ORM - Interface da aplicação com o banco de dados
 - [X] 6.2 - ORM - Associations 1:1 e 1:N
 - [X] 6.3 - ORM - Associations N:N e transactions
-- [ ] 6.4 - JWT - (JSON Web Token)
+- [X] 6.4 - JWT - (JSON Web Token)
 - [ ] 6.5 - Projeto - API de Blogs
 
 ##### Bloco 7 - Masterclass: Implantação de aplicações na nuvem:
@@ -220,40 +220,36 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [ ] 8.3 - Express com Typescript
 - [ ] 8.4 - Projeto - Trybesmith
 
-##### Bloco 9:
-- [ ] 9.1 - Introdução - Arquitetura de Software
-- [ ] 9.1 - Arquitetura de Software - Camada de Model
-- [ ] 9.2 - Arquitetura de Software - Camada de Controller e Service
-- [ ] 9.3 - Arquitetura Web - Rest e Restful
-- [ ] 9.4 - Arquitetura de Software - Testando as Camadas
-- [ ] 9.5 - Projeto - Store Manager
+##### Bloco 9 - Programação orientada a Objetos (POO) e SOLID:
+- [ ] 9.1 - Introdução à Orientação a Objetos
+- [ ] 9.2 - Herança e Interfaces
+- [ ] 9.3 - Polimorfismo
+- [ ] 9.4 - SOLID - Introdução e Princípios S, O e D
+- [ ] 9.5 - SOLID - Princípios L e I
+- [ ] 9.6 - Projeto - Trybers and Dragons
 
-##### Bloco 10:
-- [ ] 10.1 - NodeJS - JWT - (JSON Web Token)
-- [ ] 10.2 - NodeJS - Upload de arquivos com Multer
-- [ ] 10.3 - NodeJS - Testando APIs com Testes de Integração
-- [ ] 10.4 - Projeto - Cookmaster
+##### Bloco 10 - Projeto - TFC:
+- [ ] 10.1 - Projeto - TFC - Trybe Futebol Clube
 
-##### Bloco 11:
-- [ ] 11.1 - Introdução - Deploy
-- [ ] 11.1 - Infraestrutura - Deploy com Heroku
-- [ ] 11.2 - Deploy - Gerenciadores de Processos
-- [ ] 11.3 - Projeto - Stranger Things
+##### Bloco 11 - MongoDB:
+- [ ] 11.1 - MongoDB - Introdução 
+- [ ] 11.2 - Filter Operators
+- [ ] 11.3 - Operadores de Consulta
+- [ ] 11.4 - Updates Simples
+- [ ] 11.5 - Updates Complexos - Arrays
+- [ ] 11.6 - Projeto - Commercce
 
-##### Bloco 12:
-- [ ] 12.1 - Arquitetura - Princípios SOLID
-- [ ] 12.2 - ORM - Interface da aplicação com o banco de dados
-- [ ] 12.3 - ORM - Associations
-- [ ] 12.4 - Boas práticas na escrita de testes
-- [ ] 12.5 - Projeto - API de Blogs
+##### Bloco 12 - APIs OO e NoSQL:
+- [ ] 12.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
+- [ ] 12.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
+- [ ] 12.3 - Projeto - Car Shop
 
-##### Bloco 13:
-- [ ] 13.1 - Sockets - TCP/UDP & NET
-- [ ] 13.2 - Sockets - Socket.io
-- [ ] 13.3 - Projeto - Webchat
+##### Bloco 13 - Projeto - App de Delivery:
+- [ ] 13.1 - Projeto - App de Delivery
 
-##### Bloco 14: Projeto Trybeer II
-- [ ] 14.1 - Projeto - Trybeer v2
+##### Bloco 14: MasterClass - VPS, CI/CD:
+- [ ] 14.1 - VPS
+- [ ] 14.2 - Dia 2
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
