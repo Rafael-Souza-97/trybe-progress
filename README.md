@@ -8,49 +8,12 @@ A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa
 
 <br>
 
-<details>
-  <summary><strong>📚 Projetos Realizados 📚</strong></summary><br />
-
-##### 📜 Repositórios: 📜
-
-- [Lessons Learned](https://github.com/Rafael-Souza-97/lessons-learned)
-- [Playground Functions](https://github.com/Rafael-Souza-97/playground-functions)
-- [Pixels Art](https://github.com/Rafael-Souza-97/pixels-art)
-- [Color Guess](https://github.com/Rafael-Souza-97/color-guess)
-- [Mistery Letter](https://github.com/Rafael-Souza-97/mistery-letter)
-- [TrybeWarts](https://github.com/Rafael-Souza-97/trybewarts)
-- [JavaScript Testes Unitários](https://github.com/Rafael-Souza-97/javascript-unit-tests)
-- [Zoo functions](https://github.com/Rafael-Souza-97/zoo-functions)
-- [Shopping Cart](https://github.com/Rafael-Souza-97/shopping-cart)
-- [Solar System](https://github.com/Rafael-Souza-97/solar-system)
-- [Exchange Wallet](https://github.com/Rafael-Souza-97/exchange-wallet)
-- [Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
-- [All For One](https://github.com/Rafael-Souza-97/mysql-all-for-one)
-- [One for All](https://github.com/Rafael-Souza-97/mysql-one-for-all)
-- [Talker Manager](https://github.com/Rafael-Souza-97/talker-manager)
-- [Store Manager](https://github.com/Rafael-Souza-97/store-manager)
-
-<hr>
-
-##### 🖥️ Deploys: 🖥️
-
-- [Arte com Pixels](https://pixels-art-gamma.vercel.app/)
-- [Adivinhe a Cor](https://color-guess-rouge.vercel.app/)
-- [Carta Misteriosa](https://mistery-letter-beta.vercel.app/)
-- [TrybeWarts](https://trybewarts-seven.vercel.app/)
-- [Carrinho de Compras](https://shopping-cart-roan-one.vercel.app/)
-- [Sistema Solar](https://solar-system-ashy.vercel.app/)
-- [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
-
-<hr>
-
-</details>
+Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de vizualizar os projetos (com os links):
 
 <br>
 
-Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de vizualizar os projetos (com os links):
-
-## Fundamentos do Desenvolvimento Web :heavy_check_mark:
+<details>
+  <summary><strong>Módulo: FUNDAMENTOS do Desenvolvimento Web :heavy_check_mark:</strong></summary>
 
 ##### Bloco 1:
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
@@ -111,9 +74,15 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [x] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 8.6 - [Projeto - Zoo functions](https://github.com/Rafael-Souza-97/zoo-functions)
+  
+<hr>
 
+</details>
 
-## Desenvolvimento Front-end :heavy_check_mark:
+<br>
+
+<details>
+<summary><strong>Módulo: FRONT-END :heavy_check_mark:</strong></summary>
 
 ##### Bloco 1:
 - [x] 1.2 - Introdução - Front-end
@@ -167,9 +136,15 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 ##### Bloco 10:
 - [X] 10.1 - Projeto - App de Receitas
+  
+<hr>
 
+</details>
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+<br>
+
+<details>
+<summary><strong>Módulo: BACK-END :hourglass_flowing_sand:</strong></summary>
 
 ##### Bloco 1 - Docker: Utilizando Containers:
 - [X] 1.1 - Utilizando Containers - Docker
@@ -250,8 +225,15 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 ##### Bloco 14: MasterClass - VPS, CI/CD:
 - [ ] 14.1 - VPS
 - [ ] 14.2 - CI/CD
+  
+<hr>
 
-## Ciência da Computação :hourglass_flowing_sand:
+</details>
+
+<br>
+
+<details>
+<summary><strong>Módulo: CIÊNCIA DA COMPUTAÇÃO :hourglass_flowing_sand:</strong></summary>
 
 ##### Bloco 1: Arquitetura de Computadores e Redes
 - [ ] 33.1 - Introdução - Ciência da Computação
@@ -289,3 +271,47 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [ ] 38.1 - Nó e Listas Encadeadas
 - [ ] 38.2 - Deque
 - [ ] 38.3 - Pilhas
+  
+<hr>
+
+</details>
+
+<br>
+
+<details>
+  <summary><strong>📚 Projetos Realizados 📚</strong></summary><br />
+
+##### 📜 Repositórios: 📜
+
+- [Lessons Learned](https://github.com/Rafael-Souza-97/lessons-learned)
+- [Playground Functions](https://github.com/Rafael-Souza-97/playground-functions)
+- [Pixels Art](https://github.com/Rafael-Souza-97/pixels-art)
+- [Color Guess](https://github.com/Rafael-Souza-97/color-guess)
+- [Mistery Letter](https://github.com/Rafael-Souza-97/mistery-letter)
+- [TrybeWarts](https://github.com/Rafael-Souza-97/trybewarts)
+- [JavaScript Testes Unitários](https://github.com/Rafael-Souza-97/javascript-unit-tests)
+- [Zoo functions](https://github.com/Rafael-Souza-97/zoo-functions)
+- [Shopping Cart](https://github.com/Rafael-Souza-97/shopping-cart)
+- [Solar System](https://github.com/Rafael-Souza-97/solar-system)
+- [Exchange Wallet](https://github.com/Rafael-Souza-97/exchange-wallet)
+- [Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
+- [All For One](https://github.com/Rafael-Souza-97/mysql-all-for-one)
+- [One for All](https://github.com/Rafael-Souza-97/mysql-one-for-all)
+- [Talker Manager](https://github.com/Rafael-Souza-97/talker-manager)
+- [Store Manager](https://github.com/Rafael-Souza-97/store-manager)
+
+<hr>
+
+##### 🖥️ Deploys: 🖥️
+
+- [Arte com Pixels](https://pixels-art-gamma.vercel.app/)
+- [Adivinhe a Cor](https://color-guess-rouge.vercel.app/)
+- [Carta Misteriosa](https://mistery-letter-beta.vercel.app/)
+- [TrybeWarts](https://trybewarts-seven.vercel.app/)
+- [Carrinho de Compras](https://shopping-cart-roan-one.vercel.app/)
+- [Sistema Solar](https://solar-system-ashy.vercel.app/)
+- [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
+
+<hr>
+
+</details>
