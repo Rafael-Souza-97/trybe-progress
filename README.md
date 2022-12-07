@@ -100,7 +100,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 ##### Bloco 3:
 - [x] 3.1 - Componentes com estado e eventos
 - [x] 3.2 - Formulários no React
-- [x] 3.3 - Projeto - Tryunfo
+- [x] 3.3 - [Projeto - Tryunfo](https://github.com/Rafael-Souza-97/super-trunfo)
 
 ##### Bloco 4:
 - [x] 4.1 - Ciclo de vida de componentes
@@ -293,6 +293,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Zoo functions](https://github.com/Rafael-Souza-97/zoo-functions)
 - [Shopping Cart](https://github.com/Rafael-Souza-97/shopping-cart)
 - [Solar System](https://github.com/Rafael-Souza-97/solar-system)
+- [Tryunfo](https://github.com/Rafael-Souza-97/super-trunfo)
 - [Exchange Wallet](https://github.com/Rafael-Souza-97/exchange-wallet)
 - [Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
 - [All For One](https://github.com/Rafael-Souza-97/mysql-all-for-one)
