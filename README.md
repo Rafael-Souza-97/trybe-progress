@@ -184,13 +184,13 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 6.2 - ORM - Associations 1:1 e 1:N
 - [X] 6.3 - ORM - Associations N:N e transactions
 - [X] 6.4 - JWT - (JSON Web Token)
-- [ ] 6.5 - Projeto - API de Blogs
+- [X] 6.5 - Projeto - API de Blogs
 
 ##### Bloco 7 - Masterclass: Implantação de aplicações na nuvem:
-- [ ] 7.1 - Infraestrutura: deploy com Railway
+- [X] 7.1 - Infraestrutura: deploy com Railway
 
 ##### Bloco 8 - Typescript:
-- [ ] 8.1 - Intro - Typescript
+- [X] 8.1 - Intro - Typescript
 - [ ] 8.2 - Tipagem estática e generics
 - [ ] 8.3 - Express com Typescript
 - [ ] 8.4 - Projeto - Trybesmith
