@@ -184,7 +184,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 6.2 - ORM - Associations 1:1 e 1:N
 - [X] 6.3 - ORM - Associations N:N e transactions
 - [X] 6.4 - JWT - (JSON Web Token)
-- [X] 6.5 - Projeto - API de Blogs
+- [X] 6.5 - [Projeto - API de Blogs](https://github.com/Rafael-Souza-97/blogs-api)
 
 ##### Bloco 7 - Masterclass: Implantação de aplicações na nuvem:
 - [X] 7.1 - Infraestrutura: deploy com Railway
@@ -300,6 +300,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [One for All](https://github.com/Rafael-Souza-97/mysql-one-for-all)
 - [Talker Manager](https://github.com/Rafael-Souza-97/talker-manager)
 - [Store Manager](https://github.com/Rafael-Souza-97/store-manager)
+- [Projeto - API de Blogs](https://github.com/Rafael-Souza-97/blogs-api)
 
 <hr>
 
