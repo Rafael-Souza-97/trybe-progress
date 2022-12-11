@@ -313,8 +313,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [TrybeWarts](https://trybewarts-seven.vercel.app/)
 - [Carrinho de Compras](https://shopping-cart-roan-one.vercel.app/)
 - [Sistema Solar](https://solar-system-ashy.vercel.app/)
-- [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
 - [Trybe Tunes](https://music-tunes-beige.vercel.app/album/1623258524)
+- [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
 
 <hr>
 
