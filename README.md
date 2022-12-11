@@ -105,7 +105,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 ##### Bloco 4:
 - [x] 4.1 - Ciclo de vida de componentes
 - [x] 4.2 - React Router
-- [x] 4.3 - Projeto - TrybeTunes
+- [x] 4.3 - [Projeto -](https://github.com/Rafael-Souza-97/super-trunfo) [ TrybeTunes](https://music-tunes-beige.vercel.app/album/1623258524)
 
 ##### Bloco 5:
 - [x] 5.1 - Metodologias Ágeis
@@ -294,13 +294,14 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Shopping Cart](https://github.com/Rafael-Souza-97/shopping-cart)
 - [Solar System](https://github.com/Rafael-Souza-97/solar-system)
 - [Tryunfo](https://github.com/Rafael-Souza-97/super-trunfo)
+- [TrybeTunes](https://github.com/Rafael-Souza-97/music-tunes)
 - [Exchange Wallet](https://github.com/Rafael-Souza-97/exchange-wallet)
 - [Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
 - [All For One](https://github.com/Rafael-Souza-97/mysql-all-for-one)
 - [One for All](https://github.com/Rafael-Souza-97/mysql-one-for-all)
 - [Talker Manager](https://github.com/Rafael-Souza-97/talker-manager)
 - [Store Manager](https://github.com/Rafael-Souza-97/store-manager)
-- [Projeto - API de Blogs](https://github.com/Rafael-Souza-97/blogs-api)
+- [API de Blogs](https://github.com/Rafael-Souza-97/blogs-api)
 
 <hr>
 
@@ -313,6 +314,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Carrinho de Compras](https://shopping-cart-roan-one.vercel.app/)
 - [Sistema Solar](https://solar-system-ashy.vercel.app/)
 - [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
+- [Trybe Tunes](https://music-tunes-beige.vercel.app/album/1623258524)
 
 <hr>
 
