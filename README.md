@@ -191,7 +191,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 ##### Bloco 8 - Typescript:
 - [X] 8.1 - Intro - Typescript
-- [ ] 8.2 - Tipagem estática e generics
+- [X] 8.2 - Tipagem estática e generics
 - [ ] 8.3 - Express com Typescript
 - [ ] 8.4 - Projeto - Trybesmith
 
@@ -235,19 +235,17 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 <details>
 <summary><strong>Módulo: CIÊNCIA DA COMPUTAÇÃO :hourglass_flowing_sand:</strong></summary>
 
-##### Bloco 1: Arquitetura de Computadores e Redes
-- [ ] 33.1 - Introdução - Ciência da Computação
-- [ ] 33.2 - Arquitetura de Computadores
-- [ ] 33.3 - Arquitetura de redes
-- [ ] 33.4 - Redes de computadores, ferramentas e segurança
-- [ ] 33.5 - Projeto - Explorando os protocolos
+##### Bloco 1: Introdução à Python e Raspagem de Dados da Web
+- [ ] 1.1 - Aprendendo Python
+- [ ] 1.2 - Entrada e Saída de dados
+- [ ] 1.3 - Testes
+- [ ] 1.4 - Projeto - Job Insights
 
-##### Bloco 2: Introdução à Python e Raspagem de Dados da Web
-- [ ] 34.1 - Aprendendo Python
-- [ ] 34.2 - Entrada e Saída de dados
-- [ ] 34.3 - Raspagem de Dados
-- [ ] 34.4 - Testes
-- [ ] 34.5 - Projeto - Tech news
+##### Bloco 2: Padróes de projeto
+- [ ] 2.1 - P.O.O. em Python
+- [ ] 2.2 - Padróes: Interator, Adapter, Strategy
+- [ ] 2.3 - Padróes: Decorator, Observer, Factory
+- [ ] 2.4 - Projeto - Relatórios de estoque
 
 ##### Bloco 3: Programação Orientada a Objetos e Padrões de Projeto
 - [ ] 35.1 - Introdução à programação orientada a objetos
