@@ -192,7 +192,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 ##### Bloco 8 - Typescript:
 - [X] 8.1 - Intro - Typescript
 - [X] 8.2 - Tipagem estática e generics
-- [ ] 8.3 - Express com Typescript
+- [X] 8.3 - Express com Typescript
 - [ ] 8.4 - Projeto - Trybesmith
 
 ##### Bloco 9 - Programação orientada a Objetos (POO) e SOLID:
