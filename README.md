@@ -248,27 +248,27 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [ ] 2.4 - Projeto - Relatórios de estoque
 
 ##### Bloco 3: Programação Orientada a Objetos e Padrões de Projeto
-- [ ] 35.1 - Introdução à programação orientada a objetos
-- [ ] 35.2 - Herança, Composição e Interfaces
-- [ ] 35.3 - Padrões de projeto
-- [ ] 35.4 - Projeto - Relatórios de Estoque
+- [ ] 3.1 - Introdução à programação orientada a objetos
+- [ ] 3.2 - Herança, Composição e Interfaces
+- [ ] 3.3 - Padrões de projeto
+- [ ] 3.4 - Projeto - Relatórios de Estoque
 
 ##### Bloco 4: Algoritmos e Estrutura de Dados
-- [ ] 36.1 - Complexidade de Algoritmos
-- [ ] 36.2 - Recursividade e Estratégias para solução de problemas
-- [ ] 36.3 - Algoritmos de ordenação e busca
-- [ ] 36.4 - Projeto - Algoritmos
+- [ ] 4.1 - Complexidade de Algoritmos
+- [ ] 4.2 - Recursividade e Estratégias para solução de problemas
+- [ ] 4.3 - Algoritmos de ordenação e busca
+- [ ] 4.4 - Projeto - Algoritmos
 
 ##### Bloco 5: Estrutura de Dados: Hash e Set
-- [ ] 37.1 - Arrays
-- [ ] 37.2 - Hashmap e Dict
-- [ ] 37.3 - Set
-- [ ] 37.4 - Projeto - Restaurant Orders
+- [ ] 5.1 - Arrays
+- [ ] 5.2 - Hashmap e Dict
+- [ ] 5.3 - Set
+- [ ] 5.4 - Projeto - Restaurant Orders
 
 ##### Bloco 6: Estrutura de Dados: Pilhas, Filas e Listas
-- [ ] 38.1 - Nó e Listas Encadeadas
-- [ ] 38.2 - Deque
-- [ ] 38.3 - Pilhas
+- [ ] 6.1 - Nó e Listas Encadeadas
+- [ ] 6.2 - Deque
+- [ ] 6.3 - Pilhas
   
 <hr>
 
