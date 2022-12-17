@@ -247,28 +247,29 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [ ] 2.3 - Padróes: Decorator, Observer, Factory
 - [ ] 2.4 - Projeto - Relatórios de estoque
 
-##### Bloco 3: Programação Orientada a Objetos e Padrões de Projeto
-- [ ] 3.1 - Introdução à programação orientada a objetos
-- [ ] 3.2 - Herança, Composição e Interfaces
-- [ ] 3.3 - Padrões de projeto
-- [ ] 3.4 - Projeto - Relatórios de Estoque
+##### Bloco 3: Redes e Raspagem de Dados
+- [ ] 3.1 - Arquitetura de redes
+- [ ] 3.2 - Raspagem de Dados
+- [ ] 3.3 - Outras Ferramentas de Raspagem de Dados
+- [ ] 3.4 - Projeto - Tech News
 
-##### Bloco 4: Algoritmos e Estrutura de Dados
+##### Bloco 4: Algoritmos
 - [ ] 4.1 - Complexidade de Algoritmos
 - [ ] 4.2 - Recursividade e Estratégias para solução de problemas
 - [ ] 4.3 - Algoritmos de ordenação e busca
 - [ ] 4.4 - Projeto - Algoritmos
 
-##### Bloco 5: Estrutura de Dados: Hash e Set
-- [ ] 5.1 - Arrays
-- [ ] 5.2 - Hashmap e Dict
-- [ ] 5.3 - Set
-- [ ] 5.4 - Projeto - Restaurant Orders
+##### Bloco 5: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+- [ ] 5.1 - Arquitetura de Computadores
+- [ ] 5.2 - Arrays
+- [ ] 5.3 - Nó e Listas Encadeadas
+- [ ] 5.4 - Pilhas e Filas
+- [ ] 5.5 - Projeto - TING - Trybe Is Not Google
 
-##### Bloco 6: Estrutura de Dados: Pilhas, Filas e Listas
-- [ ] 6.1 - Nó e Listas Encadeadas
-- [ ] 6.2 - Deque
-- [ ] 6.3 - Pilhas
+##### Bloco 6: Estrutura de Dados II: Hashmaps e Sets
+- [ ] 6.1 - Hashmaps e Dict
+- [ ] 6.2 - Set
+- [ ] 6.3 - Projeto - Restaurant Orders
   
 <hr>
 
