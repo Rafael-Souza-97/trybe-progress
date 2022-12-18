@@ -146,6 +146,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 <details>
 <summary><strong>Módulo: BACK-END :hourglass_flowing_sand:</strong></summary>
 
+#### BACK-END I
+
 ##### Bloco 1 - Docker: Utilizando Containers:
 - [X] 1.1 - Utilizando Containers - Docker
 - [X] 1.2 - Manipulando Imagens no Docker
@@ -194,6 +196,10 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 8.2 - Tipagem estática e generics
 - [X] 8.3 - Express com Typescript
 - [X] 8.4 - [Projeto - TrybeSmith](https://github.com/Rafael-Souza-97/smith-project)
+
+<hr>
+
+#### BACK-END II
 
 ##### Bloco 9 - Programação orientada a Objetos (POO) e SOLID:
 - [ ] 9.1 - Introdução à Orientação a Objetos
