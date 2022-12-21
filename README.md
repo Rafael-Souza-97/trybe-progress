@@ -146,7 +146,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 <details>
 <summary><strong>Módulo: BACK-END :hourglass_flowing_sand:</strong></summary>
 
-#### BACK-END I
+#### BACK-END I :heavy_check_mark:
 
 ##### Bloco 1 - Docker: Utilizando Containers:
 - [X] 1.1 - Utilizando Containers - Docker
