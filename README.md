@@ -135,7 +135,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [x] 9.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 10:
-- [X] 10.1 - Projeto - App de Receitas
+- [X] 10.1 - [Projeto -](https://github.com/Rafael-Souza-97/app-de-receitas) [App de Receitas](https://app-de-receitas-pink.vercel.app/)
   
 <hr>
 
@@ -301,6 +301,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Tryunfo](https://github.com/Rafael-Souza-97/super-trunfo)
 - [TrybeTunes](https://github.com/Rafael-Souza-97/music-tunes)
 - [Exchange Wallet](https://github.com/Rafael-Souza-97/exchange-wallet)
+- [App de Receitas](https://github.com/Rafael-Souza-97/app-de-receitas)
 - [Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
 - [All For One](https://github.com/Rafael-Souza-97/mysql-all-for-one)
 - [One for All](https://github.com/Rafael-Souza-97/mysql-one-for-all)
@@ -321,6 +322,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Sistema Solar](https://solar-system-ashy.vercel.app/)
 - [Trybe Tunes](https://music-tunes-beige.vercel.app/album/1623258524)
 - [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
+- [App de Receitas](https://app-de-receitas-pink.vercel.app/)
 
 <hr>
 
