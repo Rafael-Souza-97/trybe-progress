@@ -109,13 +109,13 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 ##### Bloco 5:
 - [x] 5.1 - Metodologias Ágeis
-- [x] 5.2 - Projeto - Frontend Online Store
+- [x] 5.2 - [Projeto -](https://github.com/Rafael-Souza-97/frontend-online-store) [Frontend Online Store](https://frontend-online-store-peach.vercel.app/)
 
 ##### Bloco 6:
 - [x] 6.1 - RTL - Primeiros passos
 - [x] 6.2 - RTL - Mocks e Inputs
 - [x] 6.3 - RTL - Testando React Router
-- [x] 6.4 - Projeto - Testes em React
+- [x] 6.4 - [Projeto - Testes em React](https://github.com/Rafael-Souza-97/react-testing-library)
 
 ##### Bloco 7:
 - [x] 7.1 - Introdução ao Redux - O estado global da aplicação
@@ -126,13 +126,13 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [x] 7.6 - [Projeto -](https://github.com/Rafael-Souza-97/exchange-wallet) [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
 
 ##### Bloco 8:
-- [x] 8.1 - Projeto - Jogo de Trivia
+- [x] 8.1 - [Projeto -](https://github.com/Rafael-Souza-97/trivia-game) [Jogo de Trivia](https://trivia-game-ten-phi.vercel.app/)
 
 ##### Bloco 9:
 - [x] 9.1 - Context API do React
 - [x] 9.2 - React Hooks - useState e useContext
 - [x] 9.3 - React Hooks - useEffect e Hooks customizados
-- [x] 9.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [x] 9.4 - [Projeto - StarWars Datatable com Context API e Hooks](https://github.com/Rafael-Souza-97/star-wars)
 
 ##### Bloco 10:
 - [X] 10.1 - [Projeto -](https://github.com/Rafael-Souza-97/app-de-receitas) [App de Receitas](https://app-de-receitas-pink.vercel.app/)
@@ -300,7 +300,10 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Solar System](https://github.com/Rafael-Souza-97/solar-system)
 - [Tryunfo](https://github.com/Rafael-Souza-97/super-trunfo)
 - [TrybeTunes](https://github.com/Rafael-Souza-97/music-tunes)
+- [Front-End Online Store](https://github.com/Rafael-Souza-97/frontend-online-store)
+- [Tstes em React](https://github.com/Rafael-Souza-97/react-testing-library)
 - [Exchange Wallet](https://github.com/Rafael-Souza-97/exchange-wallet)
+- [Jogo de Trivia](https://github.com/Rafael-Souza-97/trivia-game)
 - [App de Receitas](https://github.com/Rafael-Souza-97/app-de-receitas)
 - [Docker Todo-List](https://github.com/Rafael-Souza-97/docker-todo-list)
 - [All For One](https://github.com/Rafael-Souza-97/mysql-all-for-one)
@@ -321,7 +324,9 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Carrinho de Compras](https://shopping-cart-roan-one.vercel.app/)
 - [Sistema Solar](https://solar-system-ashy.vercel.app/)
 - [Trybe Tunes](https://music-tunes-beige.vercel.app/album/1623258524)
+- [Frontend Online Store](https://frontend-online-store-peach.vercel.app/)
 - [Trybe Wallet](https://exchange-wallet-bay.vercel.app/)
+- [Jogo de Trivia](https://trivia-game-ten-phi.vercel.app/)
 - [App de Receitas](https://app-de-receitas-pink.vercel.app/)
 
 <hr>
