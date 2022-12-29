@@ -146,6 +146,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 <details>
 <summary><strong>Módulo: BACK-END :hourglass_flowing_sand:</strong></summary>
 
+<br>
+
 #### BACK-END I :heavy_check_mark:
 
 ##### Bloco 1 - Docker: Utilizando Containers:
@@ -197,7 +199,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 8.3 - Express com Typescript
 - [X] 8.4 - [Projeto - TrybeSmith](https://github.com/Rafael-Souza-97/smith-project)
 
-<hr>
+<br>
 
 #### BACK-END II
 
