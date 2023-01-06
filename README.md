@@ -303,7 +303,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Tryunfo](https://github.com/Rafael-Souza-97/super-trunfo)
 - [TrybeTunes](https://github.com/Rafael-Souza-97/music-tunes)
 - [Front-End Online Store](https://github.com/Rafael-Souza-97/frontend-online-store)
-- [Tstes em React](https://github.com/Rafael-Souza-97/react-testing-library)
+- [Testes em React](https://github.com/Rafael-Souza-97/react-testing-library)
 - [Exchange Wallet](https://github.com/Rafael-Souza-97/exchange-wallet)
 - [Jogo de Trivia](https://github.com/Rafael-Souza-97/trivia-game)
 - [App de Receitas](https://github.com/Rafael-Souza-97/app-de-receitas)
