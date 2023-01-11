@@ -204,7 +204,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 #### BACK-END II
 
 ##### Bloco 9 - Programação orientada a Objetos (POO) e SOLID:
-- [ ] 9.1 - Introdução à Orientação a Objetos
+- [X] 9.1 - Introdução à Orientação a Objetos
 - [ ] 9.2 - Herança e Interfaces
 - [ ] 9.3 - Polimorfismo
 - [ ] 9.4 - SOLID - Introdução e Princípios S, O e D
