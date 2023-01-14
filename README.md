@@ -167,7 +167,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 3.1 - Funções mais usadas no SQL
 - [X] 3.2 - Descomplicando JOINs
 - [X] 3.3 - Transformando ideias em um modelo de banco de dados
-- [X] 3.4 - [Aula ao vivo + Projeto - One for All](https://github.com/Rafael-Souza-97/mysql-one-for-all)
+- [X] 3.4 - [Projeto - One for All](https://github.com/Rafael-Souza-97/mysql-one-for-all)
 
 ##### Bloco 4 - Node.js: ORM e Autenticação:
 - [X] 4.1 - Node.js: Runtime Assíncrono
