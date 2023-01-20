@@ -208,8 +208,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 9.2 - Herança e Interfaces
 - [X] 9.3 - Polimorfismo
 - [X] 9.4 - SOLID - Introdução e Princípios S, O e D
-- [ ] 9.5 - SOLID - Princípios L e I
-- [ ] 9.6 - Projeto - Trybers and Dragons
+- [X] 9.5 - SOLID - Princípios L e I
+- [X] 9.6 - [Projeto - Trybers and Dragons](https://github.com/Rafael-Souza-97/dungeons-and-dragons)
 
 ##### Bloco 10 - Projeto - TFC:
 - [ ] 10.1 - Projeto - TFC - Trybe Futebol Clube
@@ -314,6 +314,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Store Manager](https://github.com/Rafael-Souza-97/store-manager)
 - [API de Blogs](https://github.com/Rafael-Souza-97/blogs-api)
 - [TrybeSmith](https://github.com/Rafael-Souza-97/smith-project)
+- [Trybers and Dragons](https://github.com/Rafael-Souza-97/dungeons-and-dragons)
 
 <hr>
 
