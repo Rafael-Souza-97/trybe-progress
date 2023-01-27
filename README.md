@@ -212,7 +212,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 9.6 - [Projeto - Trybers and Dragons](https://github.com/Rafael-Souza-97/dungeons-and-dragons)
 
 ##### Bloco 10 - Projeto - TFC:
-- [ ] 10.1 - Projeto - TFC - Trybe Futebol Clube
+- [X] 10.1 - [Projeto - TFC - Trybe Futebol Clube](https://github.com/Rafael-Souza-97/tabela-do-campeonato)
 
 ##### Bloco 11 - MongoDB:
 - [ ] 11.1 - MongoDB - Introdução 
@@ -315,6 +315,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [API de Blogs](https://github.com/Rafael-Souza-97/blogs-api)
 - [TrybeSmith](https://github.com/Rafael-Souza-97/smith-project)
 - [Trybers and Dragons](https://github.com/Rafael-Souza-97/dungeons-and-dragons)
+- [Projeto - TFC - Trybe Futebol Clube](https://github.com/Rafael-Souza-97/tabela-do-campeonato)
 
 <hr>
 
