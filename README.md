@@ -215,8 +215,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 10.1 - [Projeto - TFC - Trybe Futebol Clube](https://github.com/Rafael-Souza-97/tabela-do-campeonato)
 
 ##### Bloco 11 - MongoDB:
-- [ ] 11.1 - MongoDB - Introdução 
-- [ ] 11.2 - Filter Operators
+- [X] 11.1 - MongoDB - Introdução 
+- [X] 11.2 - Filter Operators
 - [ ] 11.3 - Operadores de Consulta
 - [ ] 11.4 - Updates Simples
 - [ ] 11.5 - Updates Complexos - Arrays
