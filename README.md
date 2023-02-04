@@ -217,8 +217,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 ##### Bloco 11 - MongoDB:
 - [X] 11.1 - MongoDB - Introdução 
 - [X] 11.2 - Filter Operators
-- [ ] 11.3 - Operadores de Consulta
-- [ ] 11.4 - Updates Simples
+- [X] 11.3 - Operadores de Consulta
+- [X] 11.4 - Updates Simples
 - [ ] 11.5 - Updates Complexos - Arrays
 - [ ] 11.6 - Projeto - Commercce
 
