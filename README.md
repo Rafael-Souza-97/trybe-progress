@@ -219,7 +219,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 11.2 - Filter Operators
 - [X] 11.3 - Operadores de Consulta
 - [X] 11.4 - Updates Simples
-- [ ] 11.5 - Updates Complexos - Arrays
+- [X] 11.5 - Updates Complexos - Arrays
 - [ ] 11.6 - Projeto - Commercce
 
 ##### Bloco 12 - APIs OO e NoSQL:
