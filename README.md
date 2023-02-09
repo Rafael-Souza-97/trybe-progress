@@ -220,10 +220,10 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 11.3 - Operadores de Consulta
 - [X] 11.4 - Updates Simples
 - [X] 11.5 - Updates Complexos - Arrays
-- [ ] 11.6 - Projeto - Commercce
+- [X] 11.6 - Projeto - Commercce
 
 ##### Bloco 12 - APIs OO e NoSQL:
-- [ ] 12.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
+- [X] 12.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
 - [ ] 12.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
 - [ ] 12.3 - Projeto - Car Shop
 
