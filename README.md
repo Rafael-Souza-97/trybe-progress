@@ -224,8 +224,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 ##### Bloco 12 - APIs OO e NoSQL:
 - [X] 12.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
-- [ ] 12.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
-- [ ] 12.3 - Projeto - Car Shop
+- [X] 12.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
+- [X] 12.3 - Projeto - Car Shop
 
 ##### Bloco 13 - Projeto - App de Delivery:
 - [ ] 13.1 - Projeto - App de Delivery
