@@ -220,12 +220,12 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 11.3 - Operadores de Consulta
 - [X] 11.4 - Updates Simples
 - [X] 11.5 - Updates Complexos - Arrays
-- [X] 11.6 - Projeto - Commercce
+- [X] 11.6 - [Projeto Commerce](https://github.com/Rafael-Souza-97/mongodb-commerce)
 
 ##### Bloco 12 - APIs OO e NoSQL:
 - [X] 12.1 - APIs orientadas a objetos e NoSQL: POO e ODMs
 - [X] 12.2 - APIs orientadas a objetos e NoSQL: Herança e Abstração
-- [X] 12.3 - Projeto - Car Shop
+- [X] 12.3 - [Projeto Car Shop](https://github.com/Rafael-Souza-97/car-shop)
 
 ##### Bloco 13 - Projeto - App de Delivery:
 - [ ] 13.1 - Projeto - App de Delivery
@@ -316,7 +316,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [TrybeSmith](https://github.com/Rafael-Souza-97/smith-project)
 - [Trybers and Dragons](https://github.com/Rafael-Souza-97/dungeons-and-dragons)
 - [TFC - Trybe Futebol Clube](https://github.com/Rafael-Souza-97/tabela-do-campeonato)
-- [Commerce ](https://github.com/Rafael-Souza-97/mongodb-commerce)
+- [Commerce](https://github.com/Rafael-Souza-97/mongodb-commerce)
+- [Car Shop](https://github.com/Rafael-Souza-97/car-shop)
 
 <hr>
 
