@@ -332,8 +332,6 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Jogo de Trivia](https://trivia-game-ten-phi.vercel.app/)
 - [App de Receitas](https://app-de-receitas-pink.vercel.app/)
 
-<hr>
-
 </details>
 
 <hr>
