@@ -144,7 +144,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 <br>
 
 <details>
-<summary><strong>Módulo: BACK-END :hourglass_flowing_sand:</strong></summary>
+<summary><strong>Módulo: BACK-END :heavy_check_mark:</strong></summary>
 
 <br>
 
@@ -201,7 +201,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 <br>
 
-#### BACK-END II
+#### BACK-END II :heavy_check_mark:
 
 ##### Bloco 9 - Programação orientada a Objetos (POO) e SOLID:
 - [X] 9.1 - Introdução à Orientação a Objetos
@@ -228,11 +228,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 12.3 - [Projeto Car Shop](https://github.com/Rafael-Souza-97/car-shop)
 
 ##### Bloco 13 - Projeto - App de Delivery:
-- [ ] 13.1 - Projeto - App de Delivery
-
-##### Bloco 14: MasterClass - VPS, CI/CD:
-- [ ] 14.1 - VPS
-- [ ] 14.2 - CI/CD
+- [X] 13.1 - [Projeto - App de Delivery](https://github.com/Rafael-Souza-97/ibirita-delivery-app)
   
 <hr>
 
@@ -244,7 +240,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 <summary><strong>Módulo: CIÊNCIA DA COMPUTAÇÃO :hourglass_flowing_sand:</strong></summary>
 
 ##### Bloco 1: Introdução à Python e Raspagem de Dados da Web
-- [ ] 1.1 - Aprendendo Python
+- [X] 1.1 - Aprendendo Python
 - [ ] 1.2 - Entrada e Saída de dados
 - [ ] 1.3 - Testes
 - [ ] 1.4 - Projeto - Job Insights
@@ -318,6 +314,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [TFC - Trybe Futebol Clube](https://github.com/Rafael-Souza-97/tabela-do-campeonato)
 - [Commerce](https://github.com/Rafael-Souza-97/mongodb-commerce)
 - [Car Shop](https://github.com/Rafael-Souza-97/car-shop)
+- [App de Delivery](https://github.com/Rafael-Souza-97/ibirita-delivery-app)
 
 <hr>
 
