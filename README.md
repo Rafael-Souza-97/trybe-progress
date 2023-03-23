@@ -241,8 +241,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 
 ##### Bloco 1: Introdução à Python e Raspagem de Dados da Web
 - [X] 1.1 - Aprendendo Python
-- [ ] 1.2 - Entrada e Saída de dados
-- [ ] 1.3 - Testes
+- [X] 1.2 - Entrada e Saída de dados
+- [X] 1.3 - Testes
 - [ ] 1.4 - Projeto - Job Insights
 
 ##### Bloco 2: Padróes de projeto
