@@ -243,7 +243,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 1.1 - Aprendendo Python
 - [X] 1.2 - Entrada e Saída de dados
 - [X] 1.3 - Testes
-- [ ] 1.4 - Projeto - Job Insights
+- [X] 1.4 - [Projeto - Job Insights](https://github.com/Rafael-Souza-97/jobs-insights)
 
 ##### Bloco 2: Padróes de projeto
 - [ ] 2.1 - P.O.O. em Python
@@ -315,6 +315,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Commerce](https://github.com/Rafael-Souza-97/mongodb-commerce)
 - [Car Shop](https://github.com/Rafael-Souza-97/car-shop)
 - [App de Delivery](https://github.com/Rafael-Souza-97/ibirita-delivery-app)
+- [Projeto - Job Insights](https://github.com/Rafael-Souza-97/jobs-insights)
 
 <hr>
 
