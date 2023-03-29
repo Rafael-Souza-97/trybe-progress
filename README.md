@@ -246,7 +246,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 1.4 - [Projeto - Job Insights](https://github.com/Rafael-Souza-97/jobs-insights)
 
 ##### Bloco 2: Padróes de projeto
-- [ ] 2.1 - P.O.O. em Python
+- [X] 2.1 - P.O.O. em Python
 - [ ] 2.2 - Padróes: Interator, Adapter, Strategy
 - [ ] 2.3 - Padróes: Decorator, Observer, Factory
 - [ ] 2.4 - Projeto - Relatórios de estoque
