@@ -248,8 +248,8 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 ##### Bloco 2: Padróes de projeto
 - [X] 2.1 - P.O.O. em Python
 - [X] 2.2 - Padróes: Interator, Adapter, Strategy
-- [ ] 2.3 - Padróes: Decorator, Observer, Factory
-- [ ] 2.4 - Projeto - Relatórios de estoque
+- [X] 2.3 - Padróes: Decorator, Observer, Factory
+- [X] 2.4 - Projeto - Relatórios de estoque
 
 ##### Bloco 3: Redes e Raspagem de Dados
 - [ ] 3.1 - Arquitetura de redes
