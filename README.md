@@ -252,19 +252,19 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 2.4 - Projeto - Relatórios de estoque
 
 ##### Bloco 3: Redes e Raspagem de Dados
-- [ ] 3.1 - Arquitetura de redes
-- [ ] 3.2 - Raspagem de Dados
-- [ ] 3.3 - Outras Ferramentas de Raspagem de Dados
-- [ ] 3.4 - Projeto - Tech News
+- [X] 3.1 - Arquitetura de redes
+- [X] 3.2 - Raspagem de Dados
+- [X] 3.3 - Outras Ferramentas de Raspagem de Dados
+- [X] 3.4 - Projeto - Tech News
 
 ##### Bloco 4: Algoritmos
-- [ ] 4.1 - Complexidade de Algoritmos
-- [ ] 4.2 - Recursividade e Estratégias para solução de problemas
-- [ ] 4.3 - Algoritmos de ordenação e busca
-- [ ] 4.4 - Projeto - Algoritmos
+- [X] 4.1 - Complexidade de Algoritmos
+- [X] 4.2 - Recursividade e Estratégias para solução de problemas
+- [X] 4.3 - Algoritmos de ordenação e busca
+- [X] 4.4 - Projeto - Algoritmos
 
 ##### Bloco 5: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
-- [ ] 5.1 - Arquitetura de Computadores
+- [X] 5.1 - Arquitetura de Computadores
 - [ ] 5.2 - Arrays
 - [ ] 5.3 - Nó e Listas Encadeadas
 - [ ] 5.4 - Pilhas e Filas
