@@ -249,25 +249,25 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 2.1 - P.O.O. em Python
 - [X] 2.2 - Padróes: Interator, Adapter, Strategy
 - [X] 2.3 - Padróes: Decorator, Observer, Factory
-- [X] 2.4 - Projeto - Relatórios de estoque
+- [X] 2.4 - [Projeto - Relatórios de estoque](https://github.com/Rafael-Souza-97/inventory-report)
 
 ##### Bloco 3: Redes e Raspagem de Dados
 - [X] 3.1 - Arquitetura de redes
 - [X] 3.2 - Raspagem de Dados
 - [X] 3.3 - Outras Ferramentas de Raspagem de Dados
-- [X] 3.4 - Projeto - Tech News
+- [X] 3.4 - [Projeto - Tech News](https://github.com/Rafael-Souza-97/tech-news-scrap)
 
 ##### Bloco 4: Algoritmos
 - [X] 4.1 - Complexidade de Algoritmos
 - [X] 4.2 - Recursividade e Estratégias para solução de problemas
 - [X] 4.3 - Algoritmos de ordenação e busca
-- [X] 4.4 - Projeto - Algoritmos
+- [X] 4.4 - [Projeto - Algoritmos](https://github.com/Rafael-Souza-97/algorithms)
 
 ##### Bloco 5: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 - [X] 5.1 - Arquitetura de Computadores
-- [ ] 5.2 - Arrays
-- [ ] 5.3 - Nó e Listas Encadeadas
-- [ ] 5.4 - Pilhas e Filas
+- [X] 5.2 - Arrays
+- [X] 5.3 - Nó e Listas Encadeadas
+- [X] 5.4 - Pilhas e Filas
 - [ ] 5.5 - Projeto - TING - Trybe Is Not Google
 
 ##### Bloco 6: Estrutura de Dados II: Hashmaps e Sets
@@ -315,7 +315,10 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [Commerce](https://github.com/Rafael-Souza-97/mongodb-commerce)
 - [Car Shop](https://github.com/Rafael-Souza-97/car-shop)
 - [App de Delivery](https://github.com/Rafael-Souza-97/ibirita-delivery-app)
-- [Projeto - Job Insights](https://github.com/Rafael-Souza-97/jobs-insights)
+- [Job Insights](https://github.com/Rafael-Souza-97/jobs-insights)
+- [Relatórios de estoque](https://github.com/Rafael-Souza-97/inventory-report)
+- [Tech News](https://github.com/Rafael-Souza-97/tech-news-scrap)
+- [Algoritmos](https://github.com/Rafael-Souza-97/algorithms)
 
 <hr>
 
