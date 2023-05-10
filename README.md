@@ -268,7 +268,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 5.2 - Arrays
 - [X] 5.3 - Nó e Listas Encadeadas
 - [X] 5.4 - Pilhas e Filas
-- [ ] 5.5 - Projeto - TING - Trybe Is Not Google
+- [X] 5.5 - Projeto - TING - Trybe Is Not Google
 
 ##### Bloco 6: Estrutura de Dados II: Hashmaps e Sets
 - [ ] 6.1 - Hashmaps e Dict
