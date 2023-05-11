@@ -271,7 +271,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [X] 5.5 - Projeto - TING - Trybe Is Not Google
 
 ##### Bloco 6: Estrutura de Dados II: Hashmaps e Sets
-- [ ] 6.1 - Hashmaps e Dict
+- [X] 6.1 - Hashmaps e Dict
 - [ ] 6.2 - Set
 - [ ] 6.3 - Projeto - Restaurant Orders
   
