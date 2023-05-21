@@ -273,7 +273,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 ##### Bloco 6: Estrutura de Dados II: Hashmaps e Sets
 - [X] 6.1 - Hashmaps e Dict
 - [X] 6.2 - Set
-- [ ] 6.3 - Projeto - Restaurant Orders
+- [X] 6.3 - Projeto - Restaurant Orders
   
 <hr>
 
