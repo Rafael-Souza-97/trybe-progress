@@ -237,7 +237,7 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 <br>
 
 <details>
-<summary><strong>Módulo: CIÊNCIA DA COMPUTAÇÃO :hourglass_flowing_sand:</strong></summary>
+<summary><strong>Módulo: CIÊNCIA DA COMPUTAÇÃO :heavy_check_mark:</strong></summary>
 
 ##### Bloco 1: Introdução à Python e Raspagem de Dados da Web
 - [X] 1.1 - Aprendendo Python
@@ -337,5 +337,4 @@ Abaixo você poderá verificar os módulos e os conteúdos que estudei, além de
 - [App de Receitas](https://app-de-receitas-pink.vercel.app/)
 
 </details>
-
 <hr>
